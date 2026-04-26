@@ -15,5 +15,6 @@
 15. min() → smallest
 16. sorted() → returns sorted copy
 17.  list() → convert to list
+18. del Complete Remove the memory
 
 numbers.sort(reverse=True)
