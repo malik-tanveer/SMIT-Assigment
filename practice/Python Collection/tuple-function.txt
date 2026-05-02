@@ -1,14 +1,13 @@
  Tuple Function in Python
 
 1. count() ✔
-2. index()
-3. len(tuple) → size
-4. sum(tuple) → total
-5. max() → largest
-6. min() → smallest
-7. sorted() → returns sorted list
-8. tuple() → convert to tuple
-9. any() → agar koi value True ho
+2. index() ✔
+3. len(tuple) → size ✔
+4. sum(tuple) → total ✔
+5. max() → largest ✔
+6. min() → smallest ✔
+7. sorted() → returns sorted list ✔
+8. tuple() → convert to tuple ✔
+9. any() → agar koi value True ho  ✔
 10. all() → agar sab True hon
-11. del → complete remove from memory
-
+11. del → complete remove from memory  ✔
