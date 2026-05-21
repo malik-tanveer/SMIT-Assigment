@@ -1,1 +1,0 @@
-This assignment includes practice questions based on Python loops, functions, and file handling concepts. Students are required to solve all questions in Python and upload their .ipynb file
