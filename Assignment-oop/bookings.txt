@@ -1,4 +1,5 @@
-1203,Ali,11200.0
-1293,Jawad,11200.0
-5052,Ali,11200.0
-4608,Jawad,11200.0
+Booking ID: 266, Name: Hamza, Base Price: 25000, Discount: 0, After Discount: 25000, Tax: 3000.0, Final Price: 28000.0
+Booking ID: 93, Name: Fahad, Base Price: 25000, Discount: 0, After Discount: 25000, Tax: 3000.0, Final Price: 28000.0
+Booking ID: 388, Name: daniyal, Base Price: 65500, Discount: 0, After Discount: 65500, Tax: 7860.0, Final Price: 73360.0
+Booking ID: 30, Name: Sara, Base Price: 65500, Discount: 0, After Discount: 65500, Tax: 7860.0, Final Price: 73360.0
+Booking ID: 774, Name: Furqan Ahmed, Base Price: 110000, Discount: 0, After Discount: 110000, Tax: 13200.0, Final Price: 123200.0

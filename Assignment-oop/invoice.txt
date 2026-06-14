@@ -1,0 +1,6 @@
+Invoice ID: d373beaa-7669-40bf-a5e2-02fc1f65a676
+Customer: Hamza
+Total: 280000
+Discount: 28000.0
+Tax (18%): 45360.0
+Final Amount: 297360.0
