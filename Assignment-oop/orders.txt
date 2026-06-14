@@ -1,0 +1,22 @@
+
+ORDER INVOICE
+
+
+Order ID: 5be21cf0
+Customer: Ali
+Date: 2026-06-14 14:29:18.995569
+
+Items:
+Pepperoni Pizza x 1 = 1200
+Beef Burger x 2 = 1600
+Cola x 10 = 2000
+frires chips x 5 = 500
+
+
+
+Subtotal: 5300
+Discount: 530.0
+Tax (18%): 858.6
+TOTAL: 5628.6
+
+Payment Status: Paid 5628.6 using Wallet
