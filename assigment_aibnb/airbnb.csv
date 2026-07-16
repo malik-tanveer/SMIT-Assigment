@@ -1,0 +1,1041 @@
+﻿id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+10,  Spacious 2BR  ,75847,Maria,brooklyn,Greenpoint,40.59158,-73.73783,Private room,97778,5,36,4/9/2019,4.86,19,276
+286,Cozy apartment near park,84558,Chris,staten island,St. George,40.50063,-74.09041,private room,178,1,377,14/10/2014,0.46,7,179
+675,Cozy apartment near park,20892,Daniel,QUEENS,Elmhurst,40.88867,-74.02696,entire home/apt,72,365,99,11/8/2013,1.99,19,181
+100,Cozy apartment near park,90224,Anna,BRONX,Fordham,40.81046,-73.86895,private room,365,1,298,3/17/2018,7.21,8,194
+668,,35757,John,QUEENS,Ridgewood,40.87452,-73.71388,entire home/apt,244,1,186,1/3/2012,2.05,20,206
+644,  Spacious 2BR  ,91926,,Brooklyn,Williamsburg,40.81665,-73.8112,PRIVATE ROOM,452,5,211,8/3/2016,,3,49
+172,Sunny room in the heart of NYC,42774,Sarah,Staten island,Tompkinsville,40.64049,-73.94986,Private room,282,30,295,3/15/2014,7.99,9,17
+633,Modern studio,91290,Robert,Brooklyn ,Kensington,40.74623,-73.88434,PRIVATE ROOM,163,2,355,19/06/2011,2.16,6,223
+573,Quiet private room,27680,James,QUEENS,Ridgewood,40.60701,-73.82089,Shared room,155,365,53,6/14/2011,9.51,5,248
+307,  Spacious 2BR  ,90589,James,Staten island,Stapleton,40.52173,-73.99424,Private room,405,1,26,13/08/2013,3.02,13,272
+911,Beautiful loft,51070,Maria,The Bronx,Concourse,40.75921,-74.02053,PRIVATE ROOM,282,1000,224,7/13/2012,5.57,4,149
+473,Quiet private room,69506,Sofia,BRONX,Riverdale,40.62024,-73.72151,private room,$366 ,365,400,18/11/2015,1.41,12,251
+452,Quiet private room,56579,Emma,Brooklyn,Bedford-Stuyvesant,40.6021,-73.73477,private room,420,5,260,23/11/2018,6.97,8,333
+95,Quiet private room,76718,Daniel,Manhatan,Upper West Side,40.60699,-74.00083,private room,153,1,25,7/28/2015,4.19,11,81
+891,Quiet private room,43844,David,Staten island,Stapleton,40.52795,-74.07782,entire home/apt,79847,2,341,9/16/2018,1.13,5,251
+409,Sunny room in the heart of NYC,22157,James,Staten island,Tompkinsville,40.86872,-73.99068,Entire Home/Apt,$30 ,3,348,6/27/2017,2.14,18,261
+485,,90356,Daniel,Manhattan,Midtown,40.79757,-73.7396,Shared room,0,1,341,22/08/2014,1.2,5,250
+578,,80996,Sarah,QUEENS,Flushing,40.50355,-74.0852,PRIVATE ROOM,$266 ,5,245,4/14/2019,5.8,18,40
+769,Quiet private room,91010,John,staten island,Tompkinsville,40.82052,-74.0782,Entire home/apt,92,1,142,18/09/2012,1.28,14,49
+680,  Spacious 2BR  ,48520,Olivia,staten island,St. George,40.7839,-73.7538,Entire Home/Apt,329,30,388,4/17/2015,0.89,8,308
+453,Quiet private room,77829,,BROOKLYN,Kensington,40.68219,-73.82757,Entire Home/Apt,??,3,126,1/4/2013,6.45,3,196
+519,,91819,Olivia,Manhatan,Midtown,40.80127,-74.03419,PRIVATE ROOM,-269,5,214,8/18/2018,7.84,19,356
+626,Sunny room in the heart of NYC,99524,Chris,Staten island,St. George,40.51076,-73.74576,Shared room,409,1,393,12/6/2014,5.02,13,0
+636,Beautiful loft,4875,Anna,Staten Island,Stapleton,40.72453,-73.96188,PRIVATE ROOM,70,2,382,10/6/2019,7.51,5,231
+479,Sunny room in the heart of NYC,96676,David,Staten Island,Tompkinsville,40.88105,-73.89176,Shared room,287,2,156,14/05/2012,8.45,8,324
+474,Beautiful loft,35167,Michael,Brooklyn,Williamsburg,40.58609,-74.04632,Entire home/apt,183,365,110,5/5/2016,6.23,13,38
+320,Sunny room in the heart of NYC,95004,Chris,BROOKLYN,Bedford-Stuyvesant,40.55076,-74.04276,Entire Home/Apt,425,3,267,7/8/2018,6.11,16,19
+205,Quiet private room,51418,James,Brooklyn,Greenpoint,40.81243,-73.73593,entire home/apt,277,1000,88,2/13/2013,6.01,14,164
+285,  Spacious 2BR  ,47380,Robert,Manhattan,Harlem,40.53507,-73.81037,private room,352,1000,361,20/07/2015,2.6,5,294
+173,Quiet private room,14272,Maria,queens,Elmhurst,40.89122,-73.96482,Private room,310,1000,247,7/21/2011,6.08,11,222
+154,,4847,James,Manhattan,Harlem,40.88121,-73.8908,Entire Home/Apt,35,3,85,24/03/2016,7.33,11,60
+809,Quiet private room,17217,Anna,staten island,Stapleton,40.6311,-73.81528,Shared room,43,1,268,6/4/2012,9.75,6,170
+615,,23179,Robert,Brooklyn,Bedford-Stuyvesant,40.71763,-73.70664,Entire Home/Apt,$190 ,2,335,6/27/2011,8.48,19,162
+743,Cozy apartment near park,21904,Lisa,staten island,Stapleton,40.59941,-73.85345,private room,371,1,15,1/9/2011,3.04,4,195
+361,Quiet private room,15884,John,manhattan,Chelsea,40.86446,-73.84643,PRIVATE ROOM,193,7,136,6/11/2015,6.87,5,120
+505,,19892,Maria,The Bronx,Mott Haven,40.89756,-74.09314,Entire Home/Apt,$215 ,365,242,2/2/2013,3.61,18,71
+659,Modern studio,89823,Anna,brooklyn,Kensington,40.88288,-73.95551,PRIVATE ROOM,394,30,382,11/3/2014,2.28,9,185
+694,Modern studio,93702,Emma,Staten island,St. George,40.87961,-73.94502,Shared room,236,7,195,28/03/2018,1.84,14,159
+187,Modern studio,62706,Sofia,brooklyn,Bushwick,40.81396,-73.73739,Entire Home/Apt,381,5,259,3/27/2015,8.77,5,92
+447,,91092,Robert,QUEENS,Astoria,40.61538,-74.09052,private room,$$$$,5,175,4/18/2014,9.07,8,340
+683,Cozy apartment near park,83328,Maria,Manhatan,Upper West Side,40.6575,-73.80228,Entire Home/Apt,339,5,331,8/19/2018,0.38,14,204
+592,Sunny room in the heart of NYC,6027,,BROOKLYN,Kensington,40.56269,-73.96587,Entire Home/Apt,$402 ,30,322,11/25/2019,7.07,14,161
+14,,11745,,Brooklyn ,Greenpoint,40.53204,-74.02567,PRIVATE ROOM,59,1000,34,7/4/2014,2.47,14,304
+672,,32172,Lisa,Manhatan,East Village,40.8403,-73.80083,Shared room,326,7,323,4/6/2011,1.44,6,17
+410,Quiet private room,43157,Emma,Brooklyn ,Kensington,40.85131,-74.01566,PRIVATE ROOM,314,365,162,11/9/2016,4.53,11,125
+55,Modern studio,52717,Robert,Manhatan,East Village,40.54607,-73.71484,PRIVATE ROOM,475,1,386,11/24/2014,9.8,1,285
+703,,55511,,Staten Island,Tompkinsville,40.59847,-73.83259,PRIVATE ROOM,$109 ,7,348,4/21/2015,9.14,14,209
+427,Modern studio,65853,Anna,Staten island,Stapleton,40.75803,-73.89634,Entire home/apt,228,30,265,3/11/2018,3.75,16,355
+938,Cozy apartment near park,31083,John,BROOKLYN,Bushwick,40.89773,-73.70846,Entire Home/Apt,46,5,368,9/27/2019,2.67,10,117
+953,Sunny room in the heart of NYC,3367,Chris,BRONX,Riverdale,40.67405,-73.89768,Shared room,$457 ,1,295,28/03/2013,4.97,2,0
+610,,52543,Sofia,bronx,Mott Haven,40.85838,-74.07912,Private room,30,365,225,16/11/2017,3.03,13,60
+784,Cozy apartment near park,57807,Chris,brooklyn,Greenpoint,40.74517,-73.96123,Shared room,57876,5,145,1/26/2016,5.86,17,224
+654,Modern studio,36308,Emma,queens,Ridgewood,40.6585,-74.03129,Entire Home/Apt,110,1,312,17/06/2013,6.54,8,213
+904,,28160,Robert,Staten Island,St. George,40.82404,-73.9153,Shared room,$84 ,1,56,9/2/2011,7.97,1,263
+99,Sunny room in the heart of NYC,49281,Michael,bronx,Riverdale,40.79573,-73.98031,private room,000.000l,5,259,9/16/2019,5.63,11,243
+771,Cozy apartment near park,37630,Maria,Bronx,Mott Haven,40.60789,-73.9055,Entire home/apt,344,1,126,8/4/2017,6.1,4,88
+930,,44778,Maria,Bronx,Concourse,40.81957,-73.74965,Private room,430,1,324,7/11/2013,2.9,20,55
+755,  Spacious 2BR  ,66807,James,Staten Island,Tompkinsville,40.58662,-73.93576,Shared room,390,1,350,10/28/2013,7.81,6,259
+47,,64483,Robert,bronx,Fordham,40.8737,-73.8969,Shared room,467,1,144,10/19/2015,4.9,12,76
+511,,13763,,Bronx,Concourse,40.62344,-73.70778,Entire home/apt,$0 ,3,203,11/4/2019,7.26,11,66
+823,  Spacious 2BR  ,92208,Olivia, Queens,Long Island City,40.5374,-73.99987,Entire home/apt,151,1000,274,1/16/2014,,1,85
+721,Sunny room in the heart of NYC,45713,David,Bronx,Fordham,40.52977,-73.95064,PRIVATE ROOM,$420 ,1,292,2/28/2014,0.11,20,6
+326,  Spacious 2BR  ,70615,Daniel,staten island,St. George,40.63092,-73.86821,Entire Home/Apt,476,1000,76,7/2/2011,,13,258
+979,Sunny room in the heart of NYC,18123,Michael,brooklyn,Kensington,40.84095,-74.04777,Shared room,$386 ,30,254,3/23/2016,2.44,17,99
+866,,24651,Lisa,Brooklyn ,Bedford-Stuyvesant,40.59438,-73.93797,Entire Home/Apt,-490,1,7,1/13/2016,1.44,8,337
+257,,9302,Maria,bronx,Concourse,40.50029,-73.84479,Shared room,307,7,375,20/01/2013,7.76,18,122
+404,  Spacious 2BR  ,27975,Sarah,Brooklyn,Williamsburg,40.7281,-74.02424,private room,$417 ,30,257,2/22/2011,1.81,8,9
+738,,43329,John,Manhattan,Chelsea,40.50969,-73.84284,Private room,360,2,245,1/8/2011,9.5,13,70
+421,Sunny room in the heart of NYC,27263,Lisa,bronx,Mott Haven,40.88811,-73.89293,entire home/apt,205jsask,1,29,9/27/2014,,7,216
+837,Beautiful loft,83789,Lisa,Manhattan,Midtown,40.79009,-73.88867,entire home/apt,96,2,53,3/5/2015,8.74,13,199
+779,Modern studio,18813,Emma,manhattan,Upper West Side,40.59832,-74.02994,PRIVATE ROOM,430,1,365,3/21/2014,7.55,1,34
+894,Sunny room in the heart of NYC,88032,James,Staten Island,Tompkinsville,40.72821,-73.72859,PRIVATE ROOM,137,1,11,11/19/2013,7.79,1,300
+271,Sunny room in the heart of NYC,64525,David,Brooklyn,Bedford-Stuyvesant,40.64409,-74.05684,Entire Home/Apt,466,3,332,4/13/2017,9.77,20,50
+682,Sunny room in the heart of NYC,85237,,Staten Island,Stapleton,40.8305,-73.90486,entire home/apt,83,1000,289,10/17/2017,3.83,4,308
+579,,58712,John,Staten Island,Tompkinsville,40.55089,-73.84786,PRIVATE ROOM,162,1,316,4/4/2011,0.39,19,350
+456,,39420,Sarah,Manhattan,East Village,40.79997,-73.77633,private room,125,2,132,8/21/2017,1.1,3,325
+25,Quiet private room,7582,,Staten island,Stapleton,40.59759,-73.83758,Private room,226,1,384,7/8/2012,8.04,18,356
+624,Cozy apartment near park,73790,Emma,Manhatan,East Village,40.58016,-74.03117,entire home/apt,30,3,41,4/28/2013,4.37,12,125
+753,Sunny room in the heart of NYC,51299,Michael,staten island,St. George,40.75409,-73.86267,Shared room,none,30,16,6/12/2018,2.57,18,242
+581,Cozy apartment near park,22012,James,QUEENS,Elmhurst,40.50988,-73.85721,Entire home/apt,478,5,171,12/11/2017,9.43,12,150
+911,Beautiful loft,51070,Maria,The Bronx,Concourse,40.75921,-74.02053,PRIVATE ROOM,282,1000,224,7/13/2012,,4,149
+473,Quiet private room,69506,Sofia,BRONX,Riverdale,40.62024,-73.72151,private room,$366 ,365,400,18/11/2015,1.41,12,251
+223,Modern studio,69337,Anna,brooklyn,Bedford-Stuyvesant,40.76743,-73.89285,Private room,-239,5,198,8/2/2018,9.81,9,165
+26,Modern studio,63216,Daniel,Brooklyn ,Williamsburg,40.73818,-73.71998,PRIVATE ROOM,301knskj,30,313,7/27/2019,4.46,15,81
+843,Sunny room in the heart of NYC,10994,Daniel,staten island,Tompkinsville,40.82922,-73.86157,Entire Home/Apt,165,7,1,7/12/2014,,10,68
+597,,82957,David, Queens,Elmhurst,40.52185,-73.9058,PRIVATE ROOM,234,2,173,15/05/2011,2.22,4,85
+61,Sunny room in the heart of NYC,53640,Emma,Brooklyn,Bedford-Stuyvesant,40.6808,-74.01138,entire home/apt,292,1000,22,5/15/2019,9.64,14,31
+147,Sunny room in the heart of NYC,57260,,manhattan,Chelsea,40.76184,-73.99984,Private room,478,5,340,1/13/2013,3.06,3,358
+109,,60634,Michael,Brooklyn ,Bushwick,40.85512,-73.79206,Private room,287,1,327,6/20/2015,2.2,20,68
+516,,24628,Daniel,Manhattan,Midtown,40.65971,-74.07081,PRIVATE ROOM,222,7,236,15/06/2012,6.43,4,238
+359,Modern studio,55304,Anna,Bronx,Riverdale,40.67084,-73.96107,Shared room,-460,1,333,26/09/2015,4.33,13,276
+76,Cozy apartment near park,71748,Chris,Staten island,Tompkinsville,40.63669,-73.79354,Entire home/apt,122,2,115,3/3/2013,8.45,17,51
+254,Sunny room in the heart of NYC,21315,Maria,Queens,Long Island City,40.56694,-73.98956,Entire home/apt,252,1,202,1/2/2014,7.84,12,243
+962,Beautiful loft,91004,Lisa,QUEENS,Astoria,40.51102,-73.70395,Entire home/apt,388,1,119,4/2/2012,7.79,1,198
+934,Beautiful loft,35698,James,brooklyn,Kensington,40.8538,-73.96314,Private room,147,7,177,2/9/2017,5.55,17,325
+971,Modern studio,55264,Maria,Manhatan,Chelsea,40.51278,-74.08407,PRIVATE ROOM,37,7,346,6/8/2011,6.38,17,276
+992,,74004,David,Brooklyn,Greenpoint,40.71233,-73.95749,Entire Home/Apt,92,1,72,2/12/2012,5.49,9,47
+126,Cozy apartment near park,52996,Chris,BRONX,---,40.78967,-73.89968,PRIVATE ROOM,434,5,27,7/8/2012,3.41,11,314
+180,Quiet private room,65437,David,Staten Island,Stapleton,40.85583,-73.9674,private room,$235 ,2,25,5/12/2018,3.39,4,155
+345,Sunny room in the heart of NYC,28504,Michael,QUEENS,Long Island City,40.88804,-74.03112,PRIVATE ROOM,335,3,14,4/5/2012,1.43,5,116
+105,Cozy apartment near park,31437,,Staten Island,Stapleton,40.56318,-73.83884,PRIVATE ROOM,311,30,244,11/5/2014,6.46,18,45
+545,,92686,Michael, Queens,Ridgewood,40.88359,-74.01217,entire home/apt,55,1,18,4/3/2015,1.02,13,115
+197,Sunny room in the heart of NYC,45921,Michael, Queens,Astoria,40.8408,-73.83466,Entire home/apt,$485 ,1,168,20/08/2016,8.79,6,47
+759,Sunny room in the heart of NYC,35472,Daniel,QUEENS,Elmhurst,40.85021,-74.0516,entire home/apt,154,1,44,7/11/2013,6.6,16,279
+554,Sunny room in the heart of NYC,40460,James,staten island,Tompkinsville,40.56932,-73.92567,Entire home/apt,184,5,296,11/25/2013,2.51,10,213
+398,,20209,Sarah,manhattan,Chelsea,40.72911,-74.04401,Shared room,431,7,266,2/11/2014,,14,184
+217,Beautiful loft,85663,David,Manhatan,Chelsea,40.51671,-73.87091,Entire home/apt,$314 ,7,275,2/10/2019,7.49,17,176
+569,  Spacious 2BR  ,46908,James,Brooklyn,Bushwick,40.87175,-73.74499,Entire home/apt,336,30,66,12/2/2015,0.37,14,259
+726,,61508,Emma,QUEENS,Elmhurst,40.6201,-73.90437,Shared room,275,365,381,4/19/2014,0.44,11,180
+722,,7553,Lisa,The Bronx,Riverdale,40.78166,-74.02019,PRIVATE ROOM,$343 ,1,95,12/3/2012,4.34,3,351
+98,Beautiful loft,69069,Anna,Brooklyn ,Bushwick,40.80199,-74.02038,PRIVATE ROOM,kj,365,205,1/2/2019,1.38,15,170
+500,Modern studio,6836,Sarah,brooklyn,Williamsburg,40.56526,-73.9673,entire home/apt,486,1,124,23/09/2011,6.28,4,63
+412,Quiet private room,90201,Sarah,Staten island,St. George,40.64319,-74.02913,Shared room,222,1,63,7/6/2018,0.1,12,10
+378,,72716,Sarah,Queens,Flushing,40.79262,-73.80627,Entire home/apt,261,1000,66,1/26/2014,2.84,20,28
+438,,73459,Sarah,Manhattan,East Village,40.56317,-73.74698,Entire Home/Apt,152,365,149,12/24/2012,9.02,4,252
+942,  Spacious 2BR  ,87446,,queens,Flushing,40.59055,-73.92019,Private room,455,365,120,10/26/2014,1.52,18,57
+18,Quiet private room,6229,Chris,Staten island,St. George,40.55962,-74.08559,Entire home/apt,482,5,298,3/14/2019,0.43,12,186
+420,,77614,James,Brooklyn,??,40.75495,-73.99749,PRIVATE ROOM,493,7,246,3/8/2018,7.97,14,30
+27,,29043,Michael,Manhatan,Upper West Side,40.78542,-74.0062,entire home/apt,170,5,163,2/5/2019,2.32,3,355
+723,Quiet private room,72040,Sofia,bronx,Concourse,40.57443,-73.98477,PRIVATE ROOM,283,1000,31,3/17/2018,0.8,19,101
+813,  Spacious 2BR  ,34423,John,Staten Island,tyt,40.63771,-73.93819,Entire Home/Apt,452,1000,210,5/8/2015,8.56,20,63
+373,Cozy apartment near park,18332,Anna,queens,Elmhurst,40.73929,-73.8007,Shared room,373,1,2,20/09/2015,3.03,18,202
+774,,46243,John, Queens,Flushing,40.74017,-73.91211,Private room,490,1,351,11/23/2014,4.53,12,11
+400,Sunny room in the heart of NYC,54558,Lisa,bronx,Concourse,40.71166,-73.82221,Entire Home/Apt,390,30,242,12/6/2011,3.7,4,60
+35,  Spacious 2BR  ,85659,Daniel,QUEENS,Flushing,40.72232,-73.89335,Shared room,389,2,43,14/12/2014,5.56,16,123
+54,Modern studio,71701,Olivia,Manhatan,Midtown,40.62357,-73.92367,Entire Home/Apt,351,1000,186,10/2/2013,7.48,12,89
+964,Modern studio,86809,Emma,QUEENS,Astoria,40.77985,-74.07969,Entire home/apt,243,5,56,4/28/2016,9.31,19,177
+114,Cozy apartment near park,5400,Maria,The Bronx,Concourse,40.61026,-73.72504,PRIVATE ROOM,265,1,16,10/25/2017,2.41,15,34
+563,Sunny room in the heart of NYC,97029,,QUEENS,Ridgewood,40.84081,-74.03633,private room,ks,1,340,22/08/2012,3.24,8,118
+141,Cozy apartment near park,49085,Daniel,Brooklyn,Williamsburg,40.61547,-73.7877,Shared room,0,1000,380,9/17/2018,5.73,18,137
+889,,71800,Robert,Manhattan,East Village,40.75614,-74.00549,PRIVATE ROOM,467,365,73,3/11/2014,3.64,7,125
+963,Beautiful loft,88406,Emma, Queens,Elmhurst,40.50952,-73.81317,Entire home/apt,120,5,119,5/23/2016,6.83,5,0
+490,,78189,Maria,staten island,Stapleton,40.64543,-73.97826,Entire home/apt,159,1,342,11/18/2011,3.32,17,185
+749,Cozy apartment near park,66717,Robert,bronx,Fordham,40.55802,-73.96334,Shared room,470,1,293,4/27/2013,3.97,18,214
+687,Sunny room in the heart of NYC,14582,,bronx,Concourse,40.78467,-73.73412,private room,$131 ,7,134,12/11/2013,3.54,10,68
+656,,32868,Sofia,manhattan,Chelsea,40.81637,-73.96973,Shared room,42,365,378,4/20/2014,4.41,6,140
+390,Quiet private room,16818,Emma,staten island,Tompkinsville,40.64351,-73.99568,Private room,54,1,89,1/26/2019,3.38,18,58
+495,Sunny room in the heart of NYC,49380,Sofia,Manhatan,Harlem,40.55319,-73.75065,Entire Home/Apt,482,1,328,4/18/2014,0.02,11,177
+707,Quiet private room,58741,,queens,Flushing,40.65201,-73.72127,entire home/apt,$359 ,365,32,3/21/2014,3.37,3,224
+396,Cozy apartment near park,84320,John, Queens,Long Island City,40.79004,-73.80398,Shared room,305,1,266,5/7/2019,5.12,6,159
+954,Beautiful loft,64632,David,Staten Island,Stapleton,40.58451,-74.0456,Shared room,57,30,90,3/18/2019,3.29,17,388
+221,Modern studio,30269,David,Brooklyn,Kensington,40.73156,-73.79232,PRIVATE ROOM,45,2,18,5/18/2019,,19,76
+260,,82962,Sofia,BRONX,Fordham,40.58636,-73.89221,Entire Home/Apt,$185 ,1,371,9/13/2014,1.94,6,336
+627,Beautiful loft,56277,Michael,manhattan,East Village,40.53714,-73.94637,Private room,0,1,217,10/5/2013,6.76,6,246
+75,Sunny room in the heart of NYC,97832,Chris,brooklyn,Bushwick,40.55158,-73.81647,Shared room,387,1,158,21/07/2019,8.13,17,343
+165,,46093,Michael,Staten island,Tompkinsville,40.57978,-73.74614,Entire home/apt,$226 ,365,127,1/13/2019,3.6,19,278
+921,Quiet private room,29108,Lisa,bronx,Fordham,40.56054,-73.70499,entire home/apt,162,365,227,7/1/2012,8.33,4,45
+169,,91906,Maria,BROOKLYN,Kensington,40.54041,-73.97929,Shared room,369,1,80,11/16/2017,3.18,20,362
+757,Beautiful loft,16216,David,Manhattan,East Village,40.80899,-74.08245,PRIVATE ROOM,364,1,114,19/11/2016,2.3,4,227
+380,  Spacious 2BR  ,68284,Chris,BROOKLYN,Greenpoint,40.60739,-73.85986,Private room,483,1,387,6/20/2017,,11,218
+596,,54609,James,staten island,Stapleton,40.80947,-73.9065,Entire home/apt,kjks,30,307,11/8/2017,2.92,2,259
+464,Cozy apartment near park,14970,Robert, Queens,Ridgewood,40.57594,-73.94474,Entire Home/Apt,13111,7,163,11/26/2016,5.2,13,308
+959,Cozy apartment near park,20842,Michael,Queens,Long Island City,40.58871,-74.02673,Shared room,369,30,151,12/12/2014,2.57,14,123
+990,,35825,Sarah,Manhatan,Chelsea,40.57269,-73.75862,private room,184,2,6,5/5/2018,3.69,6,301
+488,Quiet private room,84009,,bronx,Mott Haven,40.57687,-74.04152,Entire home/apt,49,1,315,2/28/2014,3.81,8,268
+340,Sunny room in the heart of NYC,84435,Chris,staten island,Stapleton,40.83383,-73.97843,entire home/apt,0,365,378,4/1/2018,1.55,16,153
+325,  Spacious 2BR  ,29369,Olivia,staten island,Tompkinsville,40.74145,-73.78418,Private room,142,1000,87,3/4/2019,8.57,19,250
+348,,15067,Michael,Bronx,Mott Haven,40.80161,-74.09827,Entire Home/Apt,174,1,109,16/12/2019,6.98,6,94
+233,  Spacious 2BR  ,8531,Emma,Brooklyn,Williamsburg,40.60524,-73.95167,entire home/apt,$252 ,1000,19,7/20/2017,5.21,6,364
+171,Cozy apartment near park,15160,Michael,Queens,Long Island City,40.88523,-73.77134,Shared room,115,5,228,5/7/2011,6.93,1,179
+111,,41392,James, Queens,Astoria,40.85956,-73.92181,Entire Home/Apt,328,1,232,14/09/2013,,1,286
+994,Beautiful loft,83483,Olivia,queens,Long Island City,40.66012,-73.97043,entire home/apt,97,2,99,4/1/2018,9.11,12,330
+535,Sunny room in the heart of NYC,74525,,Manhatan,Harlem,40.58551,-73.87301,Entire home/apt,35,5,119,13/02/2019,6.02,9,269
+58,Cozy apartment near park,85518,Michael,MANHATTAN,Harlem,40.6119,-73.82389,PRIVATE ROOM,238,kjsk,227,28/04/2018,1,12,351
+337,Beautiful loft,48325,Sofia,manhattan,Chelsea,40.77083,-73.71695,Private room,75570,365,201,8/11/2014,6.05,13,28
+7,Quiet private room,40117,David,Brooklyn,Greenpoint,40.6174,-74.03674,PRIVATE ROOM,358,1,369,9/25/2015,5.08,17,54
+628,Modern studio,56372,Michael,Bronx,Concourse,40.76235,-73.93821,PRIVATE ROOM,381,1,82,3/19/2016,3.85,2,468
+139,Beautiful loft,85575,Emma,Bronx,Mott Haven,40.64932,-74.04346,Shared room,$186 ,7,214,13/10/2013,1.87,6,325
+164,Modern studio,81868,,brooklyn,Greenpoint,40.65309,-73.92933,entire home/apt,232,5,109,9/5/2013,8.84,8,17
+829,Sunny room in the heart of NYC,82899,Michael,Bronx,Riverdale,40.71956,-73.76876,private room,162,1,218,4/5/2018,6.99,15,45
+319,Cozy apartment near park,11580,David,Brooklyn,Bushwick,40.72136,-73.92454,Private room,116,1000,20,2/26/2013,6.13,1,490
+831,Modern studio,99635,David,MANHATTAN,Harlem,40.5229,-73.84766,entire home/apt,305,1000,13,11/6/2013,6.73,10,258
+44,Cozy apartment near park,61552,Maria,Staten island,St. George,40.88807,-73.93833,entire home/apt,159,365,0,,,14,336
+557,Beautiful loft,98048,Maria,BROOKLYN,Greenpoint,40.63252,-74.07565,Entire home/apt,319,msajks,345,12/23/2019,7.02,16,264
+64,,30392,Olivia,BROOKLYN,Kensington,40.66917,-73.73366,entire home/apt,370,1,147,6/4/2015,5.08,4,79
+587,Beautiful loft,63535,Sofia,bronx,Riverdale,40.73659,-73.85335,Entire home/apt,452,1,37,8/14/2016,4.5,5,223
+902,Cozy apartment near park,35217,,Bronx,Concourse,40.84479,-74.09105,Entire Home/Apt,73,2,66,5/17/2013,9.45,6,54
+39,  Spacious 2BR  ,69494,,Brooklyn ,Bedford-Stuyvesant,40.55968,-73.87486,Entire home/apt,$381 ,3,43,18/02/2014,6.07,13,316
+329,Beautiful loft,93974,Lisa,BROOKLYN,Kensington,40.52063,-73.94682,private room,375,30,316,6/12/2011,6.49,7,360
+460,Cozy apartment near park,69164,David,BROOKLYN,Bedford-Stuyvesant,40.81758,-73.96067,Private room,234,30,337,13/12/2012,6.08,19,364
+298,Cozy apartment near park,19208,Daniel,The Bronx,Riverdale,40.88235,-74.07216,private room,257,1,350,6/16/2017,6.61,19,46
+976,  Spacious 2BR  ,21260,,Brooklyn ,Greenpoint,40.89697,-73.96413,private room,$0 ,2,245,12/20/2019,0.68,17,192
+529,,lalsa,Sarah,Manhattan,Upper West Side,40.54907,-74.04327,PRIVATE ROOM,265,3,92,16/02/2012,9.13,1,106
+515,Cozy apartment near park,35449,Sofia,The Bronx,Fordham,40.74787,-73.82777,Shared room,235,30,187,11/10/2019,0.84,2,211
+922,Beautiful loft,92793,Lisa,bronx,Mott Haven,40.78789,-73.74222,Entire Home/Apt,149,5,95,9/1/2014,5.57,1,48
+805,Beautiful loft,53751,Maria,Bronx,Fordham,40.77581,-74.02233,Private room,112,5,15,26/07/2016,1.04,7,262
+206,Modern studio,28487,,staten island,Tompkinsville,40.78001,-73.80063,entire home/apt,100,jsakj,359,6/23/2019,9.36,20,323
+772,Modern studio,4018,Maria, Queens,Ridgewood,40.59287,-73.76109,PRIVATE ROOM,227,7,364,8/5/2018,8.88,18,314
+854,,73170,Lisa,brooklyn,Greenpoint,40.83959,-74.0411,private room,45,1000,390,9/22/2016,4.35,13,136
+143,Beautiful loft,68425,Daniel,The Bronx,Mott Haven,40.82218,-73.87197,private room,135,365,143,3/11/2019,2.93,4,293
+724,Cozy apartment near park,97396,Chris,Brooklyn,Williamsburg,40.56497,-73.84588,Private room,417,1000,151,21/09/2017,2.19,8,128
+376,Quiet private room,36755,Anna,Brooklyn ,Kensington,40.6831,-74.055,entire home/apt,393,1,63,7/2/2016,1.81,19,86
+306,,99665,Maria,manhattan,East Village,40.59448,-74.02768,Shared room,163,365,16,2/5/2016,9.34,14,78
+186,,35003,Michael,queens,Long Island City,40.84293,-73.77599,private room,$490 ,7,338,11/5/2016,0.26,14,254
+245,Beautiful loft,25102,Sofia,Brooklyn,Williamsburg,40.78417,-73.85785,Shared room,192,7,138,6/24/2018,5.21,1,230
+601,Quiet private room,64353,Michael,BRONX,Riverdale,40.68356,-74.06013,entire home/apt,41,1000,241,5/14/2017,2.23,10,208
+674,Modern studio,16765,David, Queens,Ridgewood,40.80531,-73.99485,entire home/apt,372,5,218,9/5/2011,2.28,18,234
+527,Sunny room in the heart of NYC,82015,Anna,Manhattan,Upper West Side,40.60409,-73.87884,PRIVATE ROOM,420,5,104,1/2/2012,0.13,18,303
+985,Sunny room in the heart of NYC,78872,Sofia,Staten island,St. George,40.62822,-73.8306,PRIVATE ROOM,365,1,347,9/21/2019,5.34,20,252
+229,Modern studio,56769,Emma,Manhattan,East Village,40.71193,-74.00821,private room,$477 ,30,393,6/19/2017,9.08,5,356
+850,Sunny room in the heart of NYC,89592,,Brooklyn ,Bushwick,40.78246,-73.85049,private room,236,7,392,11/10/2017,6.42,15,307
+362,Cozy apartment near park,6535,John,Manhatan,East Village,40.86226,-74.0192,entire home/apt,253,3,69,26/05/2011,6.59,16,90
+62,Quiet private room,15996,Michael,Staten Island,St. George,40.74973,-73.86585,Shared room,$63 ,5,195,5/15/2019,6.06,18,50
+621,,14134,James,MANHATTAN,Upper West Side,40.86051,-73.97105,Shared room,223,1,322,6/1/2016,4.76,6,172
+512,Beautiful loft,90320,Robert,Bronx,Mott Haven,40.84752,-74.08504,Entire home/apt,225,1,77,2/21/2018,9.53,5,118
+352,Sunny room in the heart of NYC,97704,Emma,staten island,Tompkinsville,40.70457,-74.04105,Entire Home/Apt,237,30,55,16/05/2012,2.32,2,68
+541,  Spacious 2BR  ,51470,Sarah,Staten Island,St. George,40.72341,-73.75085,Shared room,$394 ,2,355,2/16/2012,2.13,7,343
+591,Modern studio,12385,Sofia,Staten Island,Tompkinsville,40.67793,-74.04953,Private room,322,30,151,12/23/2012,4.45,5,221
+543,,70584,James,BROOKLYN,Bedford-Stuyvesant,40.54083,-73.91562,Private room,475,1,381,1/4/2012,1.88,15,14
+468,Cozy apartment near park,56982,Sarah, Queens,Long Island City,40.85889,-74.01609,private room,386,2,376,6/24/2011,1.03,6,75
+499,,14938,Olivia,Brooklyn,Bedford-Stuyvesant,40.75779,-74.0825,entire home/apt,6776,2,394,5/5/2012,6,18,4
+134,Quiet private room,91133,Emma,Manhatan,Midtown,40.77099,-73.94015,Entire Home/Apt,318,5,220,4/1/2012,2.23,19,265
+797,Modern studio,jdhja,, Queens,Flushing,40.84767,-74.03433,PRIVATE ROOM,388,3,212,8/11/2012,0.43,16,71
+704,,98005,James,MANHATTAN,Chelsea,40.7784,-73.92035,private room,95770,2,36,6/2/2012,0.67,9,274
+570,Sunny room in the heart of NYC,73029,Emma,Manhattan,Harlem,40.74326,-73.94824,Entire home/apt,445,1,282,13/01/2018,6.96,5,220
+566,Modern studio,17671,Sarah,MANHATTAN,Midtown,40.64084,-73.85261,PRIVATE ROOM,453,365,70,8/14/2012,3.77,17,36
+110,Beautiful loft,27497,David,The Bronx,Mott Haven,40.81495,-73.8898,PRIVATE ROOM,416,365,360,2/19/2016,0.63,19,280
+432,Cozy apartment near park,17822,Emma,MANHATTAN,East Village,40.67152,-73.72323,Shared room,190,7,107,8/28/2018,,10,71
+375,  Spacious 2BR  ,35108,Michael,QUEENS,Ridgewood,40.89783,-73.79453,Shared room,114,1,284,1/7/2018,0.56,6,93
+263,,19141,,queens,Long Island City,40.77589,-73.98962,PRIVATE ROOM,425,365,261,10/19/2019,0.95,9,235
+710,Quiet private room,61284,Michael,staten island,St. George,40.61475,-73.80761,entire home/apt,214,7,131,6/24/2013,4.32,14,153
+695,Cozy apartment near park,13516,Robert,brooklyn,Bushwick,40.7532,-73.96411,entire home/apt,209,1,268,1/20/2015,9.82,6,30
+501,Sunny room in the heart of NYC,37937,Anna,The Bronx,Mott Haven,40.65415,-73.95868,Entire home/apt,42,3,115,11/23/2017,4.92,12,56
+761,Beautiful loft,17640,Olivia,Manhatan,Midtown,40.6899,-73.90851,PRIVATE ROOM,139,1,88,9/21/2017,5.42,17,36
+967,Cozy apartment near park,51845,John,BROOKLYN,Greenpoint,40.74615,-73.74324,Entire home/apt,364,365,183,4/12/2016,5.68,3,75
+149,,51335,Lisa,manhattan,Harlem,40.67604,-73.81103,private room,342,1,210,4/3/2018,1.41,12,63
+887,Sunny room in the heart of NYC,95147,Chris,Bronx,Riverdale,40.84195,-73.80324,Private room,291,7,336,4/24/2019,3.93,15,281
+919,Modern studio,57270,Emma,Staten island,Stapleton,40.51807,-73.8581,Entire Home/Apt,123,7,359,13/10/2015,5.47,1,135
+870,  Spacious 2BR  ,9320,Anna,Brooklyn ,Kensington,40.66066,-73.9438,Shared room,150,2,276,20/01/2013,2.76,15,39
+159,,75425,Chris,brooklyn,Bushwick,40.8382,-73.93478,Entire home/apt,0,5,234,10/4/2012,1.34,2,201
+643,  Spacious 2BR  ,94929,,staten island,Stapleton,40.89568,-73.81409,private room,427,30,246,26/05/2011,8.28,17,20
+800,,59884,,bronx,Riverdale,40.85661,-73.75913,PRIVATE ROOM,260,2,342,7/9/2015,5.31,8,20
+565,Sunny room in the heart of NYC,48128,Lisa, Queens,Elmhurst,40.67363,-73.88859,Entire Home/Apt,133,2,44,11/22/2011,2.04,14,71
+514,Beautiful loft,34557,Sarah,Queens,Elmhurst,40.56459,-73.98795,Entire home/apt,116,5,180,2/6/2012,7.72,15,132
+24,Sunny room in the heart of NYC,63277,Emma,MANHATTAN,Midtown,40.7477,-74.06265,Entire Home/Apt,293,2,344,4/26/2015,1.48,20,23
+730,Modern studio,???,,Manhatan,Chelsea,40.64783,-73.71183,Entire Home/Apt,382,1,9,6/14/2018,2.1,16,167
+129,Sunny room in the heart of NYC,65634,David,Staten Island,Tompkinsville,40.72381,-73.70291,entire home/apt,73,2,292,22/03/2019,1.7,5,137
+309,,9906,Sarah,BROOKLYN,Greenpoint,40.79373,-73.86451,entire home/apt,375,2,266,11/23/2016,3.14,1,5
+275,Quiet private room,80377,Anna,queens,Astoria,40.62134,-73.80176,PRIVATE ROOM,241,3,77,2/5/2014,0.27,19,313
+883,,91486,Emma,brooklyn,Bedford-Stuyvesant,40.6213,-73.75955,private room,$379 ,365,315,7/19/2017,9.95,8,251
+504,,71282,Sarah,staten island,Tompkinsville,40.7407,-73.84536,entire home/apt,385,1,334,7/14/2014,4.98,8,273
+243,,54970,Olivia,Queens,Elmhurst,40.60172,-73.76441,Entire home/apt,60,1,230,12/5/2016,5.61,4,131
+363,Modern studio,77076,Emma,BROOKLYN,Greenpoint,40.85871,-73.83133,Shared room,491,1,203,4/4/2013,7.35,17,61
+975,Beautiful loft,91474,Sofia,BROOKLYN,Greenpoint,40.67461,-73.88579,Entire home/apt,$425 ,5,281,2/24/2019,,16,291
+709,,81295,Chris,Brooklyn ,Greenpoint,40.72546,-74.07043,Entire home/apt,420,30,292,5/22/2017,3.87,9,121
+839,Quiet private room,39191,,Manhattan,Chelsea,40.83217,-73.98983,Private room,286,1,238,23/11/2011,0.39,8,351
+787,Beautiful loft,43799,Chris,brooklyn,Bedford-Stuyvesant,40.76777,-73.77532,Private room,$282 ,5,315,8/9/2016,5.59,17,169
+368,,78858,Emma,Brooklyn,Williamsburg,40.66026,-73.84868,Entire Home/Apt,$358 ,5,294,2/6/2012,5.17,14,332
+958,Cozy apartment near park,96073,James,bronx,Concourse,40.68889,-74.05377,Shared room,161,1,kas;ksa,3/16/2019,8.05,3,275
+552,Cozy apartment near park,57403,John,Manhatan,Upper West Side,40.52585,-73.98211,private room,185,30,20,5/27/2014,1.24,12,250
+524,,61810,John,Staten island,Stapleton,40.66826,-74.01085,PRIVATE ROOM,0,30,282,7/2/2017,9.51,14,179
+998,Quiet private room,30105,David,manhattan,Midtown,40.67708,-73.82028,Private room,384,2,267,10/1/2013,8.53,12,353
+532,,95030,Sarah,Manhatan,Chelsea,40.7206,-73.98227,entire home/apt,77,30,223,7/7/2019,1.74,9,351
+135,  Spacious 2BR  ,28114,, Queens,Elmhurst,40.63799,-74.09017,PRIVATE ROOM,383,1,151,2/4/2017,,17,159
+250,  Spacious 2BR  ,60682,,Staten island,St. George,40.77757,-73.99125,private room,495,365,137,4/28/2017,1.83,20,148
+918,Sunny room in the heart of NYC,50464,,BROOKLYN,Kensington,40.51761,-73.74017,PRIVATE ROOM,87,2,90,5/22/2018,5.54,12,114
+16,Beautiful loft,15029,James,Manhatan,Chelsea,40.74467,-73.70511,Private room,308,365,4,5/22/2019,9.39,18,68
+160,  Spacious 2BR  ,14848,Emma,manhattan,Chelsea,40.83276,-73.9695,Shared room,440,30,139,2/7/2014,7.8,6,299
+494,Cozy apartment near park,23427,Robert,Manhattan,Midtown,40.87145,-73.89488,private room,$386 ,365,362,5/10/2019,2.97,8,137
+49,,11527,Lisa,Manhatan,Harlem,40.68277,-73.81102,PRIVATE ROOM,81,7,335,16/02/2013,,11,354
+862,Beautiful loft,43339,Olivia,staten island,Stapleton,40.5873,-74.07027,private room,$222 ,365,151,5/19/2015,7.26,2,86
+995,  Spacious 2BR  ,25419,Chris,Staten island,St. George,40.70766,-73.70637,Entire home/apt,218,1,12,8/28/2013,1.79,11,65
+685,Sunny room in the heart of NYC,41086,Chris,queens,Long Island City,40.79628,-73.79867,private room,310,1,255,6/12/2012,5.39,4,116
+327,Cozy apartment near park,93183,Emma,Brooklyn ,Bedford-Stuyvesant,40.79271,-73.72003,Private room,$415 ,1,kjslkjs,4/21/2015,0.17,15,342
+358,Sunny room in the heart of NYC,30607,Sofia,queens,Ridgewood,40.75418,-73.71036,Shared room,253,1,274,5/9/2014,2.98,20,293
+777,Sunny room in the heart of NYC,11098,James,Manhattan,Midtown,40.81324,-73.75127,PRIVATE ROOM,56,1,147,8/14/2019,2.37,lksjlsa,100
+128,,73642,Olivia,Queens,Astoria,40.60791,-74.047,Entire home/apt,257,1,220,9/18/2018,??,3,13
+295,,92699,Emma,Staten island,St. George,40.53891,-73.97584,Entire home/apt,500,30,240,4/5/2014,2.59,11,186
+386,,2032,Michael,Staten Island,St. George,40.88555,-73.9114,Private room,408,jalkjsa,299,4/10/2014,8.3,4,200
+238,,33728,David,MANHATTAN,Chelsea,40.87885,-73.82676,Shared room,323,2,255,4/24/2014,8.73,20,105
+168,Beautiful loft,20360,Daniel,Staten Island,St. George,40.6912,-73.96731,Entire home/apt,$142 ,1000,103,6/23/2013,9.19,19,165
+433,,44286,Michael,QUEENS,Long Island City,40.81146,-73.88496,entire home/apt,415,5,300,10/26/2011,9.22,19,78
+716,  Spacious 2BR  ,77831,Anna,The Bronx,Riverdale,40.76555,-74.04134,Entire Home/Apt,157,30,49,13/03/2011,3.8,12,87
+81,Cozy apartment near park,15530,Chris,Brooklyn,Bushwick,40.74355,-73.9307,Private room,310,3,121,2/2/2015,4.2,16,318
+898,Beautiful loft,90527,,queens,Ridgewood,40.76606,-73.97941,Entire home/apt,263,365,53,5/6/2013,0.91,13,11
+335,  Spacious 2BR  ,44421,,Manhattan,Chelsea,40.56504,-73.97938,Shared room,259,1,207,15/03/2018,1.57,10,279
+930,,44778,Maria,Bronx,Concourse,40.81957,-73.74965,Private room,430,1,324,7/11/2013,2.9,20,55
+31,Sunny room in the heart of NYC,22465,Anna,Manhattan,Upper West Side,40.72559,-74.01281,Private room,272,3,392,3/20/2016,9.64,10,58
+243,,54970,Olivia,Queens,Elmhurst,40.60172,-73.76441,Entire home/apt,60,1,230,12/5/2016,5.61,4,131
+827,  Spacious 2BR  ,39736,,BRONX,Concourse,40.72692,-73.71855,Private room,334,7,88,11/5/2018,6.07,13,10
+735,Cozy apartment near park,50155,Chris, Queens,Flushing,40.73459,-73.97088,Private room,262,1,63,18/06/2011,3.69,18,161
+317,  Spacious 2BR  ,41283,Anna,bronx,Mott Haven,40.76153,-73.91151,Entire home/apt,$0 ,1000,23,12/21/2014,0.15,4,323
+419,Sunny room in the heart of NYC,78045,Sarah,Staten Island,Stapleton,40.68568,-73.92876,PRIVATE ROOM,35,1000,317,6/21/2012,7.83,7,232
+758,Sunny room in the heart of NYC,56345,Sarah,Manhattan,East Village,40.78336,-73.74092,entire home/apt,387,5,325,14/02/2019,0.35,3,223
+700,Modern studio,25651,,staten island,Tompkinsville,40.62861,-73.90636,entire home/apt,42,7,156,5/25/2018,6.99,3,270
+28,Quiet private room,55921,Emma, Queens,Elmhurst,40.80792,-73.72158,Entire home/apt,245,1,391,1/8/2017,,haha,199
+413,Quiet private room,65751,,BRONX,Mott Haven,40.69714,-73.81838,Private room,$215 ,1000,107,4/27/2011,3.97,6,142
+123,Cozy apartment near park,90658,Sarah,Staten Island,St. George,40.71058,-73.77391,Entire home/apt,153,3,203,13/06/2012,5.65,3,356
+796,Beautiful loft,43412,Olivia,BROOKLYN,Williamsburg,40.5766,-74.07358,entire home/apt,216,1,129,27/03/2017,4.64,15,203
+508,,13050,David,brooklyn,Greenpoint,40.85039,-73.87834,Private room,60524,3,292,5/23/2019,4.24,17,80
+737,Quiet private room,72840,Emma,bronx,Mott Haven,40.66506,-73.79966,Entire home/apt,212,30,205,17/01/2019,6.42,3,202
+503,Beautiful loft,43343,,QUEENS,Astoria,40.55864,-74.04089,PRIVATE ROOM,24482,30,369,2/4/2018,4.28,5,142
+510,Modern studio,5242,Sarah,Brooklyn,Kensington,40.59581,-74.0349,Shared room,463,1,33,1/10/2014,1.89,8,103
+455,Quiet private room,93280,Emma,MANHATTAN,Chelsea,40.53875,-73.7905,Entire home/apt,447,7,268,11/10/2017,4.32,5,90
+120,,33208,James,staten island,St. George,40.58851,-74.04163,Shared room,53,3,283,5/5/2017,3.31,16,194
+272,Cozy apartment near park,66700,Chris,MANHATTAN,Upper West Side,40.62197,-73.90403,Entire Home/Apt,37426,1,9,12/11/2016,6.26,9,120
+880,,93550,Sofia,manhattan,Chelsea,40.66643,-73.71778,private room,444,1000,259,18/08/2017,2.8,11,85
+603,,20741,Sofia,manhattan,East Village,40.83523,-73.89064,private room,102,1000,389,25/01/2014,2.53,2,159
+278,Modern studio,53171,,Brooklyn ,Bedford-Stuyvesant,40.70748,-73.94176,PRIVATE ROOM,479,1,285,9/25/2017,9.63,10,97
+840,Cozy apartment near park,17223,Anna,manhattan,Chelsea,40.85339,-74.05113,Private room,161,2,72,2/4/2012,6,18,269
+900,Modern studio,49062,Daniel,BRONX,Mott Haven,40.81055,-74.00845,PRIVATE ROOM,284,30,60,7/5/2013,9.35,13,281
+595,Sunny room in the heart of NYC,87824,David,Manhatan,Midtown,40.65688,-73.95715,Shared room,280,30,151,4/4/2012,4.2,14,228
+450,  Spacious 2BR  ,50171,Sarah,MANHATTAN,Harlem,40.86258,-73.97991,PRIVATE ROOM,$467 ,365,78,6/12/2019,3.81,18,156
+781,Modern studio,99202,Michael,QUEENS,Astoria,40.64945,-73.97418,private room,225,2,384,4/14/2011,7.51,,230
+148,Beautiful loft,49177,Michael,MANHATTAN,Harlem,40.50371,-73.82176,Private room,295,1,216,8/3/2013,3.84,10,52
+300,  Spacious 2BR  ,28684,David,Queens,Astoria,40.61288,-74.08753,Entire Home/Apt,$213 ,7,359,11/11/2017,3.83,6,195
+408,Cozy apartment near park,73764,John,bronx,Riverdale,40.70017,-73.78685,private room,72,1,191,3/26/2019,5.38,15,216
+725,Sunny room in the heart of NYC,48379,Anna,QUEENS,Long Island City,40.79317,-73.85206,Entire home/apt,-302,7,40,1/24/2018,0.89,20,301
+458,,1404,Sofia,staten island,Tompkinsville,40.63723,-73.97391,private room,219,2,184,7/20/2017,,15,169
+52,Sunny room in the heart of NYC,51422,Maria, Queens,Flushing,40.77104,-74.03681,Entire Home/Apt,65981,30,176,11/14/2015,2.51,16,154
+871,Cozy apartment near park,70748,Michael,The Bronx,Concourse,40.67459,-73.90111,private room,349,1,66,9/19/2016,4.94,11,19
+713,Quiet private room,42483,Olivia,MANHATTAN,Upper West Side,40.58258,-73.87304,entire home/apt,$256 ,1,139,11/13/2013,7.82,15,101
+23,  Spacious 2BR  ,43237,Emma,queens,Long Island City,40.86112,-73.85379,entire home/apt,224,3,207,10/1/2019,2.11,15,296
+315,Beautiful loft,58407,John,Queens,Elmhurst,40.72179,-73.71299,PRIVATE ROOM,361,2,153,2/21/2017,3.6,7,43
+669,  Spacious 2BR  ,9693,Emma,BROOKLYN,Kensington,40.86543,-74.0814,entire home/apt,0,7,390,3/6/2019,,4,114
+351,Modern studio,37505,,staten island,Stapleton,40.89114,-74.07412,private room,409,2,173,,1.24,19,217
+210,,34425,,bronx,Mott Haven,40.88499,-73.80597,Shared room,$379 ,1,193,,2.65,1,82
+642,Sunny room in the heart of NYC,62631,,MANHATTAN,Upper West Side,40.84883,-73.73645,Entire Home/Apt,339,2,236,,6.82,13,208
+143,Beautiful loft,68425,,The Bronx,Mott Haven,40.82218,-73.87197,private room,135,365,143,,2.93,4,293
+51,Quiet private room,77435,,BROOKLYN,Bushwick,40.72637,-73.78299,Shared room,155,1,89,,6.2,5,123
+167,Modern studio,65517,,staten island,St. George,40.77905,-73.73441,Private room,192,1,360,,5.64,18,96
+661,  Spacious 2BR  ,37289,,BRONX,Fordham,40.81224,-73.8873,Entire Home/Apt,77,365,44,,7.52,15,350
+611,,33838,,staten island,Tompkinsville,40.74215,-74.01444,PRIVATE ROOM,$301 ,1,324,,5.61,4,250
+82,Cozy apartment near park,52177,Chris,bronx,Mott Haven,40.72827,-74.02507,Shared room,344,1,268,,5.08,16,259
+847,Beautiful loft,64605,Anna,Staten Island,Tompkinsville,40.60161,-73.96379,Entire Home/Apt,119,1,220,,5.72,14,248
+322,Sunny room in the heart of NYC,4809,Sarah,MANHATTAN,East Village,40.64568,-74.01616,Private room,$52 ,3,171,1/4/2018,0.53,16,275
+733,Modern studio,26551,Maria,The Bronx,Mott Haven,40.62567,-73.74671,PRIVATE ROOM,193,2,330,10/20/2014,2.96,17,31
+957,  Spacious 2BR  ,30753,Michael,Brooklyn,Bedford-Stuyvesant,40.50588,-73.71721,Entire home/apt,333,3,358,19/09/2012,5.62,5,167
+67,  Spacious 2BR  ,89895,Robert,brooklyn,Williamsburg,40.67725,-73.93039,PRIVATE ROOM,$375 ,1000,226,5/7/2017,,19,220
+385,Beautiful loft,40441,Emma,manhattan,Harlem,40.57529,-74.08927,Private room,38,30,332,8/11/2013,8.42,15,275
+858,  Spacious 2BR  ,36405,Emma,Queens,Elmhurst,40.57836,-73.86702,entire home/apt,471,30,328,11/5/2017,7.3,1,112
+290,,21195,,Brooklyn ,Williamsburg,40.62093,-74.05511,Shared room,184,1,398,2/15/2014,0.26,7,247
+949,Sunny room in the heart of NYC,48581,Anna,Staten Island,Stapleton,40.85908,-73.8737,Private room,315,30,270,3/10/2018,0.32,15,302
+572,Quiet private room,93439,Emma,Manhatan,Harlem,40.89924,-74.04811,Shared room,365,7,245,11/3/2012,2.51,12,278
+284,Quiet private room,55232,Sofia,BRONX,Fordham,40.65158,-74.07293,Entire home/apt,195,7,281,5/16/2012,1.23,17,140
+493,Modern studio,52150,Maria,BRONX,Mott Haven,40.81776,-73.82248,Shared room,0,7,253,9/3/2019,4.38,13,260
+548,Modern studio,97313,Chris,MANHATTAN,Harlem,40.61626,-74.00868,Entire home/apt,320,365,85,4/2/2013,8.04,12,171
+65,,36818,Lisa,BRONX,Fordham,40.83806,-73.71018,PRIVATE ROOM,145,1000,314,1/20/2019,8.3,10,136
+881,Cozy apartment near park,57112,David,QUEENS,Ridgewood,40.81504,-73.76337,entire home/apt,437,3,91,3/10/2019,9.11,11,42
+265,Modern studio,51133,Robert,The Bronx,Fordham,40.85192,-73.92628,PRIVATE ROOM,-444,1,394,12/21/2014,9.29,2,324
+443,Cozy apartment near park,53709,Michael,Manhattan,East Village,40.75071,-73.85013,private room,197,365,202,2/8/2017,1.07,11,165
+263,,19141,,queens,Long Island City,40.77589,-73.98962,PRIVATE ROOM,425,365,261,10/19/2019,0.95,9,235
+542,,68300,,queens,Ridgewood,40.87775,-73.8166,PRIVATE ROOM,469,1,258,8/3/2012,3.86,7,231
+21,Modern studio,76574,John,BRONX,Fordham,40.88501,-73.99381,Entire home/apt,163,1,305,24/06/2017,4.37,7,261
+436,Quiet private room,53328,Robert,Manhatan,East Village,40.73004,-73.97587,PRIVATE ROOM,273,2,257,5/7/2018,9.91,20,228
+815,,43613,Chris,Manhatan,Harlem,40.83199,-74.0945,private room,32551,1,174,8/5/2014,7.25,14,63
+741,Modern studio,89369,Lisa,Staten island,Stapleton,40.54508,-73.94502,Entire Home/Apt,237,1,380,4/25/2014,7.36,7,152
+297,  Spacious 2BR  ,88766,Sarah,staten island,Stapleton,40.88956,-73.94647,entire home/apt,154,5,106,19/07/2017,5.45,3,120
+492,Cozy apartment near park,55919,David,Staten Island,Stapleton,40.7202,-73.99899,Entire Home/Apt,95,365,177,8/21/2016,1.18,17,223
+568,Quiet private room,44202,Emma,Bronx,Fordham,40.76129,-74.08709,private room,499,7,133,6/25/2014,1.4,2,280
+262,Modern studio,68844,John,Staten island,Tompkinsville,40.80628,-73.72954,private room,309,3,184,8/13/2018,7.27,5,145
+782,Cozy apartment near park,39721,Lisa,manhattan,Harlem,40.68654,-73.91392,Private room,159,2,237,7/2/2013,9.48,12,327
+748,  Spacious 2BR  ,44621,Emma, Queens,Long Island City,40.80693,-74.04095,private room,269,30,345,12/7/2019,0.87,12,129
+405,Beautiful loft,38401,James,BRONX,Concourse,40.50931,-73.92519,private room,0,7,12,13/06/2019,0.92,5,50
+558,Sunny room in the heart of NYC,16864,Maria,Manhatan,Chelsea,40.74947,-74.01972,Entire Home/Apt,33,1,0,,,17,78
+747,Beautiful loft,49924,Lisa,Brooklyn,Greenpoint,40.69541,-74.00739,PRIVATE ROOM,316,1,146,20/02/2016,4.57,12,241
+614,,18255,Olivia,Staten island,Stapleton,40.75902,-73.88177,entire home/apt,272,1,19,1/20/2016,1.54,3,90
+526,Sunny room in the heart of NYC,58331,Sofia,MANHATTAN,Midtown,40.65733,-74.07937,private room,128,1000,219,11/13/2013,1.75,8,162
+874,Beautiful loft,46003,Anna,Staten Island,St. George,40.63607,-74.03423,private room,323,1,350,18/03/2016,7.23,13,247
+189,,83710,Chris,Manhattan,East Village,40.56031,-73.70306,private room,57,5,209,3/11/2018,1.81,6,41
+252,Quiet private room,2653,Michael, Queens,Flushing,40.83742,-73.71934,entire home/apt,46,1,136,18/02/2017,1.82,4,128
+72,,12835,Emma,queens,Elmhurst,40.60987,-74.07753,Entire home/apt,353,365,37,8/15/2015,0.58,20,146
+818,Modern studio,91427,,queens,Elmhurst,40.59377,-73.90564,Private room,$98 ,2,282,11/5/2019,2.68,4,189
+431,Quiet private room,30829,Emma,bronx,Riverdale,40.81325,-73.93848,Entire home/apt,174,7,296,8/21/2011,9.89,8,76
+841,,66099,Sarah,manhattan,Upper West Side,40.55388,-73.84239,Entire home/apt,131,2,20,1/24/2017,9.56,11,313
+989,,45786,Anna,The Bronx,,,-73.98578,entire home/apt,$173 ,1,274,10/11/2011,9.17,6,156
+965,Sunny room in the heart of NYC,4676,John,BRONX,,,-73.81833,entire home/apt,457,1,237,1/12/2019,7.43,8,345
+940,,71630,Anna,Brooklyn ,,,-73.84329,private room,390,5,123,18/03/2012,9.6,13,262
+734,,78836,Sarah,staten island,,,-74.08989,PRIVATE ROOM,182,7,40,8/25/2016,4.47,15,195
+988,,36501,,Staten island,,,-73.93945,Entire Home/Apt,167,3,369,4/12/2016,4.37,13,288
+751,Quiet private room,54230,Robert,Staten island,St. George,40.77758,-73.79867,Private room,262,1,258,8/5/2012,6.95,10,156
+331,Beautiful loft,11085,James,Bronx,Concourse,40.61691,-73.85162,Entire Home/Apt,452,1,96,3/2/2018,8.98,4,147
+446,,79390,,Brooklyn,Bushwick,40.53176,-74.04498,Private room,417,aa,151,3/13/2014,6.42,15,121
+969,Beautiful loft,2055,Chris,queens,Long Island City,40.73242,-73.71473,Entire Home/Apt,464,5,115,13/01/2011,4.59,7,80
+729,Sunny room in the heart of NYC,82065,Anna,Brooklyn,Bushwick,40.70751,-73.90231,Entire Home/Apt,$178 ,2,213,1/10/2018,1.59,14,322
+366,,22001,,The Bronx,Riverdale,40.7741,-73.88604,Entire Home/Apt,215,2,226,13/01/2017,3.02,15,120
+282,Quiet private room,82233,John,BROOKLYN,Kensington,40.5023,-73.74692,entire home/apt,285,2,111,14/08/2018,0.8,18,437
+859,,65499,,Staten island,Tompkinsville,40.85417,-73.80959,entire home/apt,395,7,343,5/10/2013,0.2,16,47
+719,Cozy apartment near park,50809,Sofia,staten island,St. George,40.76376,-73.96683,Shared room,418,1,66,12/19/2011,3.03,13,102
+622,Modern studio,64249,John,MANHATTAN,Upper West Side,40.68258,-73.86961,Private room,254,7,374,8/27/2017,2.53,13,191
+913,Cozy apartment near park,8198,Chris,Brooklyn,Bushwick,40.76413,-74.08948,Private room,464,30,26,8/27/2019,8.44,6,54
+686,Modern studio,77263,Daniel,staten island,Stapleton,40.60587,-73.81704,entire home/apt,417,5,172,6/25/2018,,10,414
+397,  Spacious 2BR  ,76030,Lisa,BRONX,Mott Haven,40.70211,-73.80721,PRIVATE ROOM,401,5,132,6/4/2019,7.57,1,63
+208,Quiet private room,89542,,Manhattan,Harlem,40.61465,-73.99978,Private room,432,1,353,4/25/2015,0.33,18,231
+509,Quiet private room,49690,James,MANHATTAN,Upper West Side,40.89039,-73.85797,Entire home/apt,124,1,354,8/11/2018,6.42,14,194
+219,Quiet private room,42053,Sofia,manhattan,Harlem,40.69434,-73.96866,Shared room,490,3,355,19/10/2013,8.08,8,219
+240,Sunny room in the heart of NYC,50732,,manhattan,Harlem,40.51303,-73.96108,private room,274,1,234,17/12/2012,3.16,19,419
+564,Quiet private room,84544,Maria,MANHATTAN,East Village,40.83872,-74.07085,Entire home/apt,($178),5,310,3/11/2011,6.99,19,193
+356,,23253,John, Queens,Astoria,40.52258,-74.00231,entire home/apt,212,2,331,10/3/2015,,1,156
+872,Beautiful loft,37647,Daniel,manhattan,Chelsea,40.85789,-73.95586,Entire home/apt,$482 ,7,195,11/15/2016,0.39,18,344
+193,  Spacious 2BR  ,16176,Michael,bronx,Fordham,40.85062,-73.99768,Shared room,$435 ,365,319,10/2/2011,1.09,14,10
+281,Beautiful loft,24684,Maria,The Bronx,Fordham,40.76381,-74.03996,PRIVATE ROOM,201,1,91,10/7/2011,7.3,4,228
+192,Cozy apartment near park,18197,Anna,Staten island,Stapleton,40.89819,-73.96291,private room,252,30,183,26/03/2014,0.2,7,114
+602,Sunny room in the heart of NYC,19844,,Brooklyn ,Bedford-Stuyvesant,40.58962,-73.70992,Shared room,$395 ,7,394,12/8/2014,5.64,3,329
+645,Modern studio,74864,James,Staten Island,Tompkinsville,40.68015,-73.99683,Shared room,257,3,304,3/5/2011,2.89,12,113
+708,Cozy apartment near park,1773,Anna,BRONX,Mott Haven,40.77391,-73.93603,Private room,$192 ,365,8,11/12/2013,0.39,13,53
+133,Sunny room in the heart of NYC,48124,Sarah,queens,Flushing,40.52959,-73.70372,Entire Home/Apt,246,30,298,9/17/2017,4.19,18,18
+678,  Spacious 2BR  ,20902,David,manhattan,East Village,40.57735,-73.76627,PRIVATE ROOM,244,1,115,3/13/2015,7.26,7,299
+424,Sunny room in the heart of NYC,18988,Lisa,brooklyn,Williamsburg,40.56971,-73.76099,Shared room,483,2,91,6/1/2014,9.11,13,10
+253,Modern studio,34202,Maria,Staten Island,Stapleton,40.70846,-73.70715,Entire home/apt,406,30,199,6/6/2015,7.29,16,281
+715,,16524,David,Queens,Flushing,40.67865,-73.96455,private room,328,1,148,2/26/2015,1.61,18,77
+968,  Spacious 2BR  ,92154,Robert,staten island,Stapleton,40.67139,-73.7344,private room,7519,365,30,9/13/2012,4.4,8,134
+264,Modern studio,13499,John,bronx,Mott Haven,40.72763,-74.01303,Shared room,77,1,370,6/8/2016,8.26,20,353
+71,,74989,Olivia,manhattan,Harlem,40.80409,-73.8378,Private room,118,1,395,8/25/2018,7.6,20,229
+273,Beautiful loft,32504,Michael, Queens,Astoria,40.85887,-73.83723,private room,145,1,373,9/22/2017,,19,351
+599,Cozy apartment near park,31147,James,Manhatan,Chelsea,40.50546,-73.76181,entire home/apt,???,365,52,26/07/2019,0.43,8,144
+328,Quiet private room,81281,Daniel,Staten Island,Stapleton,40.68572,-73.84664,entire home/apt,476,1,197,2/9/2016,4.26,18,138
+116,Beautiful loft,55568,James,QUEENS,Astoria,40.57005,-73.8285,private room,480,365,253,6/21/2011,3.82,14,268
+324,Sunny room in the heart of NYC,37779,Olivia,Staten Island,Tompkinsville,40.65493,-74.04544,Private room,342,2,323,7/5/2016,1.28,5,354
+7,Quiet private room,40117,David,Brooklyn,Greenpoint,40.6174,-74.03674,PRIVATE ROOM,358,1,369,9/25/2015,5.08,17,54
+706,,2862,Olivia,Staten Island,St. George,40.74613,-73.92476,PRIVATE ROOM,64,1,226,11/17/2011,7.69,5,162
+418,Sunny room in the heart of NYC,50998,Anna,Brooklyn ,Bushwick,40.86765,-73.92323,PRIVATE ROOM,$430 ,3,312,2/4/2017,0.57,13,26
+483,Beautiful loft,70349,Michael,Staten island,Tompkinsville,40.61934,-74.05713,Entire home/apt,345,5,369,7/12/2013,1.02,17,251
+660,  Spacious 2BR  ,43869,James,brooklyn,Kensington,40.81924,-73.76733,Entire Home/Apt,232,1,262,19/01/2016,9.96,18,258
+865,,93119,Michael,Staten Island,Stapleton,40.7174,-73.70163,Private room,464,7,14,19/04/2016,9.6,19,11
+855,,26171,Robert,Staten island,St. George,40.67038,-73.8312,PRIVATE ROOM,317,1,392,9/11/2014,3.38,9,61
+697,Quiet private room,14070,Anna,MANHATTAN,Midtown,40.74883,-73.72588,private room,449,1,159,2/12/2015,1.81,16,265
+598,Modern studio,52842,Daniel,Bronx,Fordham,40.86489,-73.79326,PRIVATE ROOM,429,365,32,7/9/2011,5.36,8,80
+793,Sunny room in the heart of NYC,92742,Emma,manhattan,East Village,40.61657,-73.76526,PRIVATE ROOM,85,1,313,3/3/2015,6.07,17,133
+780,Sunny room in the heart of NYC,5773,Anna,The Bronx,Concourse,40.68665,-73.84106,private room,236,365,181,17/05/2017,1.68,7,255
+279,,52520,Emma,MANHATTAN,Chelsea,40.5569,-73.76804,private room,383,30,46,2/6/2019,9.38,14,356
+832,Cozy apartment near park,57975,John,brooklyn,Greenpoint,40.70889,-73.79281,Entire Home/Apt,274,1,89,9/20/2015,3.15,15,240
+776,,25382,James,brooklyn,Kensington,40.72113,-73.99984,Entire Home/Apt,77,365,130,3/10/2018,8.59,8,142
+3,Beautiful loft,84320,sakjsalk,Staten Island,Stapleton,40.64465,-74.02308,Shared room,346,1,23,5/3/2014,8.67,12,194
+230,,42405,Sarah,Manhattan,Chelsea,40.50219,-73.80254,private room,239,1,295,2/17/2019,3.76,14,105
+778,  Spacious 2BR  ,22889,David,Manhattan,East Village,40.71346,-74.02528,private room,400,1,166,5/17/2013,5.01,2,29
+983,Quiet private room,57555,,Brooklyn ,Williamsburg,40.70486,-73.94251,Entire Home/Apt,$108 ,5,30,10/10/2015,3.01,13,18
+861,,56299,David,manhattan,Chelsea,40.6857,-74.01803,entire home/apt,308,1,347,2/20/2012,0.01,8,57
+907,Cozy apartment near park,27812,Lisa,Staten Island,St. George,40.57269,-73.88732,Entire Home/Apt,38,365,346,8/14/2016,4.3,4,129
+789,,87885,,manhattan,East Village,40.6452,-73.80299,Private room,387,7,290,5/3/2016,1.63,3,246
+200,  Spacious 2BR  ,22679,Lisa,Queens,Elmhurst,40.77052,-73.94605,Entire Home/Apt,276,365,313,1/21/2011,5.06,3,240
+372,Cozy apartment near park,13488,John,Manhatan,Upper West Side,40.55328,-73.9707,Entire Home/Apt,$73 ,7,351,12/13/2014,4.24,18,305
+925,,41940,Lisa,queens,Elmhurst,40.74659,-73.88464,Entire Home/Apt,165,2,357,12/20/2017,4.41,3,259
+702,,1621,David,Manhattan,East Village,40.78561,-73.90189,Private room,394,1000,327,1/13/2011,,8,59
+650,Sunny room in the heart of NYC,63558,Robert,Staten Island,St. George,40.57601,-73.76772,private room,$172 ,1,67,5/2/2019,2.28,15,299
+66,Sunny room in the heart of NYC,75395,,brooklyn,Williamsburg,40.75327,-74.08774,private room,$65 ,365,110,15/07/2017,1.58,20,159
+308,Modern studio,44904,Daniel,MANHATTAN,Harlem,40.62628,-73.8879,Shared room,259,1,49,12/11/2019,6.11,9,333
+41,Cozy apartment near park,19643,David,The Bronx,Riverdale,40.84384,-74.07153,Entire home/apt,391,2,135,7/4/2014,2.26,3,76
+586,Beautiful loft,56359,Michael,Manhattan,East Village,40.79714,-74.04944,Shared room,394,1,220,12/6/2011,1.33,12,271
+973,Beautiful loft,61734,John,The Bronx,Riverdale,40.59611,-73.83159,Private room,148,1,4,12/8/2013,5.21,1,39
+531,Sunny room in the heart of NYC,19161,Sofia,Bronx,Mott Haven,40.51182,-74.09078,private room,92,365,389,28/04/2013,1.16,8,111
+665,,47974,Maria,staten island,Tompkinsville,40.54986,-73.7123,Private room,224,365,296,2/6/2019,1.21,11,250
+645,Modern studio,74864,James,Staten Island,Tompkinsville,40.68015,-73.99683,Shared room,257,3,304,3/5/2011,2.89,12,113
+819,,3565,,BRONX,Concourse,40.61313,-73.77612,Entire home/apt,-104,365,314,21/03/2019,9.77,11,1
+599,Cozy apartment near park,31147,James,Manhatan,Chelsea,40.50546,-73.76181,entire home/apt,405,365,52,26/07/2019,0.43,8,144
+274,Sunny room in the heart of NYC,42614,David,QUEENS,Elmhurst,40.71654,-73.77996,private room,$364 ,1,158,3/14/2019,6.57,3,289
+901,Beautiful loft,37428,Anna,manhattan,Harlem,40.56247,-74.04366,Shared room,484,30,27,2/12/2017,1.63,2,118
+667,Quiet private room,9019,Olivia,Brooklyn ,Bedford-Stuyvesant,40.85893,-74.08185,Entire home/apt,170,2,90,3/17/2011,1.41,20,240
+681,Quiet private room,14255,Anna,staten island,St. George,40.78962,-73.98965,Entire Home/Apt,424,3,327,6/14/2019,8.36,16,182
+803,Beautiful loft,9648,Sarah,Staten Island,Stapleton,40.6238,-73.88307,Private room,421,365,327,2/5/2012,8.53,9,1
+178,,2620,Sarah,Brooklyn ,Williamsburg,40.6279,-73.80916,PRIVATE ROOM,457,1,44,9/13/2017,3.27,20,141
+301,  Spacious 2BR  ,85180,,MANHATTAN,Chelsea,40.76803,-74.04629,PRIVATE ROOM,177,1,331,24/03/2011,6.58,14,69
+38,  Spacious 2BR  ,7734,Sarah,bronx,Riverdale,40.87764,-73.84485,Entire home/apt,313,30,52,10/10/2011,4.79,9,174
+354,  Spacious 2BR  ,64891,,Brooklyn ,Kensington,40.68386,-74.08686,entire home/apt,466,365,337,6/12/2015,4.31,4,159
+203,Sunny room in the heart of NYC,94959,James,The Bronx,Riverdale,40.5887,-73.96346,Entire Home/Apt,79,3,280,6/23/2019,0.47,14,84
+237,Sunny room in the heart of NYC,99145,Robert,BROOKLYN,Kensington,40.59197,-73.97371,entire home/apt,142,5,264,23/01/2019,2.49,11,47
+150,  Spacious 2BR  ,8152,,manhattan,Chelsea,40.78847,-73.98603,Entire Home/Apt,313,1,337,4/17/2015,5.1,8,200
+719,Cozy apartment near park,50809,Sofia,staten island,St. George,40.76376,-73.96683,Shared room,418,1,66,12/19/2011,3.03,13,102
+448,  Spacious 2BR  ,11245,James,queens,Elmhurst,40.57699,-73.84625,Entire Home/Apt,"$69,440 ",1,104,2/6/2013,5.49,14,104
+218,,77099,Lisa,manhattan,Upper West Side,40.81986,-73.7591,PRIVATE ROOM,88,365,236,2/10/2019,0.68,16,50
+717,,88674,James,bronx,Concourse,40.85424,-73.70487,Entire home/apt,373,5,35,20/03/2013,6.78,7,76
+467,Cozy apartment near park,18157,Olivia,Manhattan,Upper West Side,40.63932,-73.94345,entire home/apt,377,1,270,5/23/2015,7.01,11,280
+583,,44081,Maria,MANHATTAN,Upper West Side,40.52057,-73.91107,Entire Home/Apt,479,365,266,6/9/2018,8.36,8,150
+899,Quiet private room,97466,Sofia,Queens,Ridgewood,40.61469,-74.04848,Entire Home/Apt,98,1000,99,24/06/2016,8.4,1,33
+472,Sunny room in the heart of NYC,34654,Sarah,Bronx,Mott Haven,40.77809,-74.09787,Entire Home/Apt,122,30,160,1/5/2012,2.07,2,82
+303,Modern studio,87997,Anna,Brooklyn ,Bushwick,40.79207,-73.88944,Entire home/apt,$383 ,3,238,2/17/2019,0.89,3,241
+906,Quiet private room,65491,Daniel,Brooklyn ,Kensington,40.5986,-73.91522,Private room,239,2,170,27/01/2012,3.62,10,271
+970,Quiet private room,76062,Daniel,Queens,Astoria,40.552,-73.94353,entire home/apt,224,3,54,9/9/2018,5.83,5,321
+917,Quiet private room,78180,Sofia,Staten island,Stapleton,40.72388,-73.89813,Shared room,337,30,371,22/10/2017,6.65,12,25
+978,Cozy apartment near park,2337,David,Manhattan,Chelsea,40.76193,-73.80754,Entire home/apt,279,365,382,14/02/2012,5.78,5,363
+389,  Spacious 2BR  ,27146,Sarah, Queens,Elmhurst,40.81839,-73.7801,PRIVATE ROOM,364,1,318,5/23/2014,0.87,6,247
+50,,4794,Daniel,Staten island,St. George,40.61495,-74.00901,private room,-373,1,222,11/23/2012,4.44,2,355
+423,,58725,John,manhattan,East Village,40.79603,-74.01787,Entire Home/Apt,447,1,3,3/1/2016,0.31,7,58
+388,  Spacious 2BR  ,90780,David,staten island,St. George,40.77901,-74.09168,entire home/apt,360,3,371,12/8/2014,2.33,11,112
+571,Beautiful loft,11041,Emma,BROOKLYN,Bushwick,40.59281,-73.86455,Private room,$500 ,2,211,10/2/2019,,2,127
+391,Sunny room in the heart of NYC,81028,Olivia,QUEENS,Flushing,40.607,-74.03953,PRIVATE ROOM,0,365,309,2/12/2012,7.99,20,56
+826,Beautiful loft,57966,James, Queens,Long Island City,40.50305,-73.95019,Entire Home/Apt,-131,365,89,2/3/2017,2.13,8,78
+353,Cozy apartment near park,72098,Daniel,brooklyn,Bedford-Stuyvesant,40.74929,-73.79593,private room,108,365,392,7/8/2018,6.62,11,251
+194,Sunny room in the heart of NYC,14751,James,BROOKLYN,Bedford-Stuyvesant,40.50372,-73.93165,Entire Home/Apt,385,1,339,5/20/2019,7.01,17,214
+236,Cozy apartment near park,61142,Emma,MANHATTAN,Upper West Side,40.87881,-73.77882,Entire home/apt,287,3,275,15/12/2015,5.64,15,124
+508,,13050,David,brooklyn,Greenpoint,40.85039,-73.87834,Private room,60524,3,292,5/23/2019,4.24,17,80
+882,,1730,Emma,Brooklyn,Kensington,40.73453,-73.74864,Private room,220,1,121,11/27/2013,8,11,162
+481,,23913,Olivia,bronx,Fordham,40.59769,-73.80441,Entire Home/Apt,303,365,350,10/15/2011,6.75,3,268
+56,Sunny room in the heart of NYC,80964,Chris,Brooklyn ,Bushwick,40.82897,-73.72388,Entire Home/Apt,164,1,345,8/1/2014,8.84,8,287
+117,  Spacious 2BR  ,44288,Olivia,Staten Island,Stapleton,40.78303,-73.77769,entire home/apt,145,1,287,7/18/2017,1.35,3,124
+97,Sunny room in the heart of NYC,73070,David,Brooklyn,Bedford-Stuyvesant,40.6613,-74.0819,Private room,402,1,291,4/12/2019,2.89,9,197
+142,,32056,skaklsja,Staten island,St. George,40.59901,-73.75008,entire home/apt,454,1,230,6/28/2015,4.4,7,60
+740,  Spacious 2BR  ,86257,John,manhattan,Upper West Side,40.60626,-73.95028,Entire home/apt,411,7,81,9/10/2014,1.97,10,133
+910,Modern studio,5967,Chris,Manhattan,Upper West Side,40.60782,-74.09879,PRIVATE ROOM,392,2,341,6/26/2012,0.43,19,312
+822,,2533,Sarah,brooklyn,Bedford-Stuyvesant,40.77238,-73.70963,entire home/apt,$408 ,30,367,4/24/2013,2.19,19,49
+625,,43875,Anna,Manhatan,Harlem,40.86513,-73.83263,entire home/apt,231,30,361,2/13/2014,3.19,10,68
+604,,56797,David,The Bronx,Fordham,40.69549,-73.90007,Shared room,416,2,164,12/16/2018,5.55,3,41
+121,Cozy apartment near park,88584,Michael,Staten island,Stapleton,40.64087,-74.04402,Entire Home/Apt,116,365,250,9/21/2013,5.24,2,38
+752,Modern studio,92464,Lisa,brooklyn,Kensington,40.57429,-73.78957,Entire home/apt,$0 ,1,34,4/8/2015,9.45,20,338
+766,Modern studio,23729,Chris,staten island,Tompkinsville,40.74522,-73.78524,private room,367,3,97,12/18/2016,3.22,4,236
+879,,18009,Michael,Brooklyn,Bushwick,40.89904,-73.82157,Private room,345,365,242,1/20/2019,8.35,8,458
+63,Beautiful loft,13656,Robert,Staten Island,Tompkinsville,40.53803,-73.92929,Shared room,234,3,191,11/16/2013,0.92,12,43
+802,,39314,David,brooklyn,Bedford-Stuyvesant,40.5801,-73.82597,private room,120,1,168,8/1/2014,1.31,9,132
+807,Sunny room in the heart of NYC,96145,Anna,QUEENS,Elmhurst,40.53409,-73.76279,Entire Home/Apt,191,1000,266,2/19/2019,4.74,11,283
+454,Modern studio,46140,Sofia,Staten Island,Tompkinsville,40.76339,-73.94688,Shared room,286,3,375,12/28/2017,1.1,5,293
+346,Sunny room in the heart of NYC,99900,,Brooklyn,Kensington,40.54313,-73.78278,PRIVATE ROOM,$250 ,365,303,4/8/2011,0.44,4,154
+415,  Spacious 2BR  ,56058,Lisa,Staten island,Stapleton,40.89804,-73.99039,Entire Home/Apt,-215,365,238,6/17/2018,8.84,18,114
+4,Cozy apartment near park,8331,Daniel,queens,Flushing,40.75399,-73.88634,Entire Home/Apt,$361 ,2,83,7/9/2018,6.88,8,112
+59,,29305,Daniel,queens,Astoria,40.75668,-73.86114,PRIVATE ROOM,76,1,25,4/5/2016,2.06,8,283
+224,Beautiful loft,1864,Emma,bronx,Concourse,40.83419,-73.89333,Entire Home/Apt,330,7,114,12/7/2019,4.87,17,246
+653,  Spacious 2BR  ,41027,Sarah,BROOKLYN,Greenpoint,40.67281,-73.97814,entire home/apt,$121 ,30,175,3/7/2019,7.63,11,109
+102,Quiet private room,40008,,MANHATTAN,Upper West Side,40.78837,-73.84268,Shared room,376,3,312,8/4/2018,5.59,10,115
+933,Beautiful loft,56704,Sofia,Staten island,St. George,40.85299,-73.95665,Private room,118,1,139,23/03/2018,7.93,3,84
+222,  Spacious 2BR  ,87430,Lisa,Staten island,Stapleton,40.59555,-73.7144,Entire home/apt,$287 ,1000,350,5/9/2013,1.6,5,289
+559,Cozy apartment near park,57669,David,Manhattan,East Village,40.87042,-73.98003,Entire home/apt,257,30,94,9/9/2014,6.82,5,336
+5,,98912,, Queens,Flushing,40.62587,-73.83782,Entire home/apt,320,7,329,3/9/2018,,19,287
+466,Modern studio,96341,Olivia,MANHATTAN,Chelsea,40.63326,-73.76885,Entire Home/Apt,60,2,375,12/24/2014,9.23,13,91
+53,,31162,Maria,Staten island,Tompkinsville,40.89118,-73.83671,private room,388,3,4,24/10/2011,8.33,20,146
+486,Cozy apartment near park,57317,Michael,Staten island,Stapleton,40.88307,-73.78291,Entire Home/Apt,$229 ,1,79,9/1/2016,2.37,20,347
+497,Beautiful loft,24791,Olivia,bronx,Concourse,40.82309,-73.79884,Private room,134,1,228,24/12/2014,3.69,15,245
+703,,55511,,Staten Island,Tompkinsville,40.59847,-73.83259,PRIVATE ROOM,$109 ,7,348,4/21/2015,9.14,14,209
+156,Cozy apartment near park,16650,,brooklyn,Kensington,40.88414,-74.08585,entire home/apt,106,7,114,4/14/2016,3.21,17,39
+701,Cozy apartment near park,67682,,bronx,Riverdale,40.88671,-73.94604,Entire Home/Apt,$0 ,5,275,28/11/2011,7.39,12,268
+677,Beautiful loft,54788,Emma,The Bronx,Concourse,40.50014,-73.99947,entire home/apt,399,365,342,4/24/2015,5.94,5,34
+249,Modern studio,50592,Sarah,staten island,Tompkinsville,40.59249,-74.09711,Entire home/apt,438,5,96,14/09/2017,2.51,8,330
+442,Beautiful loft,29910,Sofia,Bronx,Fordham,40.64986,-74.00458,PRIVATE ROOM,133,1,8,1/1/2017,8.21,4,348
+966,Modern studio,67385,Sarah,Brooklyn ,Bushwick,40.50488,-73.82399,Entire Home/Apt,185,1000,60,5/12/2011,9.38,20,109
+118,Quiet private room,3009,Sofia,Queens,Ridgewood,40.76947,-73.85883,Entire Home/Apt,56,1,96,4/16/2019,8.7,7,170
+972,Sunny room in the heart of NYC,75133,David,brooklyn,Kensington,40.55443,-73.72899,Entire home/apt,257,3,347,8/11/2016,5.57,6,278
+369,Quiet private room,85817,,Staten island,St. George,40.81981,-74.02053,Shared room,333,7,188,7/13/2013,2.25,20,11
+292,Sunny room in the heart of NYC,42831,James,Brooklyn,Bushwick,40.76359,-73.97501,entire home/apt,82,1000,388,7/11/2015,2.01,15,146
+382,Cozy apartment near park,24882,Sarah,Brooklyn,Greenpoint,40.72739,-73.99865,entire home/apt,267,3,299,9/1/2012,7.41,13,236
+631,,57505,Emma,Brooklyn ,Bushwick,40.79276,-73.88749,Shared room,$335 ,7,127,2/18/2013,1.27,9,74
+201,Sunny room in the heart of NYC,98679,Michael,Manhatan,Chelsea,40.66131,-74.006,Entire home/apt,311,30,227,28/02/2018,4.48,1,60
+756,  Spacious 2BR  ,11069,Emma,The Bronx,Fordham,40.56957,-73.91931,Shared room,387,1,20,11/10/2015,1.11,7,79
+956,Beautiful loft,58748,Maria,Queens,Ridgewood,40.89242,-73.83723,Private room,483,5,95,2/24/2017,7.44,2,116
+506,Beautiful loft,21732,Lisa,manhattan,Harlem,40.65098,-74.08946,Entire Home/Apt,386,7,190,12/4/2011,5.82,1,244
+808,,55005,Sarah,BROOKLYN,Williamsburg,40.84346,-74.07803,Shared room,247,3,340,9/12/2013,9.99,3,143
+341,,63395,Robert, Queens,Long Island City,40.54774,-73.98911,entire home/apt,360,1,306,10/16/2016,4.37,4,132
+155,Cozy apartment near park,16117,John,Bronx,Riverdale,40.68208,-73.95595,Entire Home/Apt,$351 ,30,290,6/6/2013,7.74,8,293
+908,Cozy apartment near park,19117,John,manhattan,Upper West Side,40.67579,-73.99831,entire home/apt,444,7,201,3/3/2017,5.86,16,268
+849,Beautiful loft,38455,,brooklyn,Williamsburg,40.54099,-73.95177,Entire Home/Apt,$400 ,1,310,9/12/2011,5.81,19,33
+770,,29819,Maria,Bronx,Fordham,40.61368,-74.00373,Entire home/apt,349,2,316,9/12/2015,1.53,6,283
+830,Sunny room in the heart of NYC,22616,Sarah,Bronx,Riverdale,40.63507,-74.08676,entire home/apt,171,1,399,11/23/2011,8.63,19,15
+323,  Spacious 2BR  ,29922,Anna,MANHATTAN,Upper West Side,40.85935,-74.00797,private room,131,1,166,2/8/2014,4.13,3,102
+944,,25818,Daniel,The Bronx,Concourse,40.70317,-73.84745,entire home/apt,53,365,346,12/13/2018,,12,42
+619,,5814,David,Manhatan,Midtown,40.60582,-73.90405,Private room,162,1000,186,17/11/2016,8.3,19,351
+83,  Spacious 2BR  ,90742,Chris,staten island,??,40.79318,-73.8487,Entire Home/Apt,13855,1000,376,2/3/2016,5.46,15,329
+616,Modern studio,23671,James,Brooklyn ,Bedford-Stuyvesant,40.83002,-73.89939,PRIVATE ROOM,$61 ,3,42,2/8/2013,6.09,1,352
+465,  Spacious 2BR  ,93605,Chris,staten island,St. George,40.77199,-74.04103,PRIVATE ROOM,458,3,74,11/10/2011,5.03,19,352
+996,Sunny room in the heart of NYC,5598,Maria,Manhattan,East Village,40.77692,-74.05063,Entire home/apt,146,2,390,9/26/2017,6.94,7,253
+334,,58788,David,Queens,Long Island City,40.56432,-73.88587,Shared room,115,1,89,3/8/2013,0.42,9,162
+11,  Spacious 2BR  ,25931,David,staten island,St. George,40.66444,-73.75447,Entire home/apt,250,1,344,1/13/2012,3.4,18,55
+471,Sunny room in the heart of NYC,70479,Robert,Staten island,Stapleton,40.5254,-73.73645,entire home/apt,$94 ,365,94,1/12/2017,5.57,16,274
+33,  Spacious 2BR  ,36400,Emma,Queens,Ridgewood,40.69608,-73.92659,Entire Home/Apt,464,5,325,5/12/2018,1.77,20,267
+814,,96846,David,Brooklyn ,Greenpoint,40.57374,-73.84367,Private room,$383 ,1,343,3/23/2014,2.32,3,127
+926,  Spacious 2BR  ,15862,Sarah,BRONX,Riverdale,40.55391,-73.86036,PRIVATE ROOM,$86 ,1,29,6/8/2018,9.29,3,355
+383,Cozy apartment near park,14936,John,Staten island,Tompkinsville,40.67998,-73.77687,???,262,5,95,3/3/2014,9.82,14,132
+795,,32359,Michael,MANHATTAN,Midtown,40.85006,-74.04093,Entire Home/Apt,$70 ,30,64,3/12/2013,7.71,16,352
+588,,69838,James,Bronx,Mott Haven,40.68141,-73.97183,Entire home/apt,219,1,260,8/2/2015,4.94,19,24
+951,Beautiful loft,10781,James,Manhattan,East Village,40.54711,-73.90534,Shared room,190,3,361,11/24/2012,4.89,4,197
+960,Modern studio,30864,Michael, Queens,Astoria,40.58761,-73.8129,Entire Home/Apt,129,3,153,9/7/2019,3.04,13,90
+379,Beautiful loft,57670,Lisa,staten island,St. George,40.5082,-74.01671,Private room,473,7,399,5/21/2017,1.55,10,152
+90,Modern studio,12300,Michael,queens,Long Island City,40.58039,-74.04445,PRIVATE ROOM,$144 ,30,13,19/09/2016,4.68,3,282
+214,Cozy apartment near park,94961,Sarah,Bronx,Fordham,40.77416,-73.76573,Private room,426,2,275,11/27/2017,7.47,11,78
+884,Quiet private room,14875,Olivia,Staten island,Tompkinsville,40.64652,-73.89387,Entire Home/Apt,$412 ,1,188,4/3/2015,2.19,5,88
+134,Quiet private room,91133,,Manhatan,Midtown,40.77099,-73.94015,Entire Home/Apt,318,5,220,4/1/2012,2.23,19,265
+347,Sunny room in the heart of NYC,75741,Olivia,bronx,Mott Haven,40.83834,-73.72326,Private room,$44 ,1000,178,3/28/2016,7.81,3,313
+664,,98510,John,QUEENS,Long Island City,40.8964,-74.00681,Entire Home/Apt,185,2,395,5/1/2016,1.24,7,192
+8,Beautiful loft,10071,David,queens,Ridgewood,40.62966,-74.09221,PRIVATE ROOM,$500 ,5,157,1/8/2014,9.47,18,43
+652,Beautiful loft,58677,Emma, Queens,Ridgewood,40.69331,-73.9865,Shared room,120,3,135,11/4/2019,,4,257
+321,Sunny room in the heart of NYC,7955,Daniel,QUEENS,Elmhurst,40.71208,-74.06173,Entire home/apt,$128 ,5,389,8/9/2019,7.71,7,337
+109,,60634,Michael,Brooklyn ,Bushwick,40.85512,-73.79206,Private room,287,1,327,6/20/2015,2.2,20,68
+188,Sunny room in the heart of NYC,84151,Emma,bronx,Riverdale,40.84857,-73.93181,Entire Home/Apt,211,5,190,10/10/2015,8.51,19,240
+553,,5212,Maria,queens,Flushing,40.80755,-74.03799,Shared room,287,1,365,3/24/2015,4.33,16,41
+305,Sunny room in the heart of NYC,34679,Anna,Staten island,St. George,40.74973,-73.98527,private room,-199,1,64,28/02/2019,2.53,1,315
+32,,46508,Chris,BROOKLYN,Greenpoint,40.78601,-74.0696,Entire Home/Apt,222,2,52,11/20/2015,7.96,18,289
+860,,18388,Sofia,brooklyn,Greenpoint,40.60542,-73.94109,Entire Home/Apt,64,365,345,5/3/2019,1.99,11,232
+241,Beautiful loft,24578,Anna,QUEENS,Long Island City,40.74523,-73.95363,private room,167,30,217,23/07/2014,3.66,19,205
+768,Sunny room in the heart of NYC,83327,Emma,Staten island,Tompkinsville,40.87112,-73.9181,Entire home/apt,-465,365,298,19/09/2015,2,16,26
+175,  Spacious 2BR  ,49418,John,Brooklyn,Williamsburg,40.5462,-73.78605,Private room,71,30,250,2/21/2015,3.88,6,189
+246,Modern studio,86830,Maria,Manhatan,Harlem,40.87472,???,Private room,$82 ,1,13,9/25/2017,1.05,13,316
+57,,92289,,Staten island,Tompkinsville,40.51488,-73.70163,Entire Home/Apt,$101 ,1,49,5/9/2014,4.54,18,343
+792,Cozy apartment near park,6179,Olivia,brooklyn,Bushwick,40.77999,-73.83358,PRIVATE ROOM,381,1,20,5/11/2013,0.4,20,298
+146,Cozy apartment near park,58840,Michael,MANHATTAN,Chelsea,40.55224,-73.75903,Shared room,202,5,349,1/4/2011,7.84,15,406
+91,Cozy apartment near park,17912,Olivia,Staten island,Tompkinsville,40.88895,-73.84306,PRIVATE ROOM,$324 ,30,238,6/5/2019,,14,93
+393,,57206,,Staten Island,St. George,40.5685,-73.99359,PRIVATE ROOM,204,7,184,3/25/2014,4.22,14,116
+311,,9177,Lisa,bronx,Fordham,40.87447,-73.84449,Entire Home/Apt,180,3,393,22/12/2017,2.58,13,37
+360,  Spacious 2BR  ,27299,David,The Bronx,Mott Haven,40.73074,-74.01482,Entire home/apt,294,30,137,28/10/2019,9.35,12,320
+94,,95157,Michael,BRONX,Riverdale,40.61897,-74.07081,entire home/apt,443,1,80,16/07/2018,2.05,11,310
+732,,30272,Lisa,Queens,Ridgewood,40.88331,-73.9936,entire home/apt,491,30,199,5/23/2014,3.64,1,30
+791,  Spacious 2BR  ,7731,David,Manhatan,Midtown,40.54026,-74.06708,private room,222,1,76,7/16/2019,9.34,1,357
+377,  Spacious 2BR  ,93760,Chris,brooklyn,Bedford-Stuyvesant,40.85495,-74.08962,Entire home/apt,285,1,201,4/10/2016,1.55,16,41
+244,,45222,Olivia,bronx,Mott Haven,40.695,-73.80539,PRIVATE ROOM,196,1,195,8/21/2015,8.68,14,327
+867,Beautiful loft,23834,Lisa,Manhattan,East Village,40.63402,-73.70445,Entire Home/Apt,$217 ,1,351,7/19/2015,7.33,3,267
+88,Modern studio,16435,Sofia,staten island,Tompkinsville,40.64678,-73.97425,entire home/apt,$323 ,3,127,1/24/2012,5,9,198
+215,Sunny room in the heart of NYC,85072,Daniel,Brooklyn,Williamsburg,40.59106,-73.99654,PRIVATE ROOM,66,7,230,7/11/2017,3.9,20,60
+445,Cozy apartment near park,31464,Maria,Staten island,Stapleton,40.77505,-73.70879,Private room,355,30,34,1/20/2016,4.49,17,261
+174,  Spacious 2BR  ,87772,Maria,Staten island,Stapleton,40.61261,-74.00498,Entire Home/Apt,306,1,201,8/5/2019,3.61,20,218
+426,Sunny room in the heart of NYC,65092,Daniel,Staten island,St. George,40.71419,-73.78416,Entire home/apt,330,5,126,26/11/2011,8.73,7,260
+816,  Spacious 2BR  ,9048,Robert,BRONX,Concourse,40.65568,-74.0248,Entire Home/Apt,$355 ,2,250,5/14/2018,2.53,2,221
+119,Sunny room in the heart of NYC,66179,Daniel,Brooklyn ,Williamsburg,40.59573,-73.97135,Entire Home/Apt,134,3,194,21/09/2018,3.09,15,184
+120,,33208,James,staten island,St. George,40.58851,-74.04163,Shared room,53,3,283,5/5/2017,3.31,16,194
+868,Cozy apartment near park,5952,Anna,The Bronx,Concourse,40.7137,-73.82726,PRIVATE ROOM,50,2,220,5/26/2019,8.68,11,81
+1,,27062,Maria,Brooklyn,Bushwick,40.79627,-73.88185,Private room,$407 ,1000,216,1/3/2011,2.33,18,308
+395,  Spacious 2BR  ,72358,Sofia,BRONX,Concourse,40.62173,-73.80292,entire home/apt,388,5,4,9/20/2015,7.01,20,228
+402,  Spacious 2BR  ,67160,Chris,BROOKLYN,Kensington,40.62388,-73.91905,PRIVATE ROOM,0,5,400,8/27/2017,8.34,15,67
+405,Beautiful loft,38401,James,BRONX,Concourse,40.50931,-73.92519,private room,0,7,12,13/06/2019,0.92,5,50
+651,  Spacious 2BR  ,59017,John,BROOKLYN,Kensington,40.57896,-73.88305,Private room,$256 ,2,306,5/19/2018,5.82,7,57
+658,Modern studio,72642,Sofia,Queens,Elmhurst,40.8101,-73.93449,Private room,67,1,77,10/7/2015,0.89,9,125
+163,Cozy apartment near park,44456,Emma,manhattan,Midtown,40.75787,-73.86707,PRIVATE ROOM,381,3,38,2/7/2011,4.44,4,65
+115,Quiet private room,19777,,Brooklyn ,Bedford-Stuyvesant,40.52258,-73.89844,Private room,416,3,119,10/20/2016,8.19,17,121
+151,Sunny room in the heart of NYC,10567,John,brooklyn,Bedford-Stuyvesant,40.50483,-73.95556,Entire Home/Apt,300,5,67,14/10/2017,5.47,1,88
+620,Beautiful loft,16112,Emma,bronx,Concourse,40.58298,-73.82014,Shared room,379,365,282,2/17/2015,2.59,17,239
+612,Quiet private room,48315,John,queens,Astoria,40.6384,-73.93037,PRIVATE ROOM,268,1000,286,7/12/2014,9.33,17,5
+857,Sunny room in the heart of NYC,83557,Olivia,Brooklyn ,Greenpoint,40.74476,-73.77058,Private room,372,1,24,7/17/2012,6.12,20,142
+369,Quiet private room,85817,,Staten island,St. George,40.81981,-74.02053,Shared room,333,7,188,7/13/2013,2.25,20,11
+544,Beautiful loft,25831,Anna,Brooklyn,Bushwick,40.70317,-74.07874,entire home/apt,233,3,189,21/01/2012,7.32,13,216
+478,,89895,Sofia,The Bronx,Concourse,40.78529,-73.83697,private room,34,1,193,1/24/2015,9.75,20,362
+533,  Spacious 2BR  ,83929,David,BRONX,Mott Haven,40.85314,-73.93051,PRIVATE ROOM,399,3,163,13/10/2012,2.01,3,180
+513,Cozy apartment near park,66211,,BRONX,Concourse,40.84238,-73.92764,PRIVATE ROOM,178,7,122,10/20/2014,9.58,4,290
+895,,16095,John,MANHATTAN,Chelsea,40.74483,haha,Entire Home/Apt,291,1,295,8/3/2017,6.87,5,255
+811,,33450,David,QUEENS,Astoria,40.85656,-74.08299,Private room,($351),5,207,2/9/2019,5.91,3,287
+259,Cozy apartment near park,55519,Olivia,Staten island,Stapleton,40.74238,-74.07165,Entire Home/Apt,55,2,335,2/15/2018,0.62,12,285
+890,Sunny room in the heart of NYC,66289,David,QUEENS,Elmhurst,40.79746,-73.90276,Entire home/apt,360,1,201,4/1/2015,3.33,20,129
+136,,73339,Robert,Staten Island,Tompkinsville,40.51787,-73.81569,Entire Home/Apt,$193 ,1,175,11/26/2012,9.3,6,124
+617,Quiet private room,23195,Chris,BRONX,Fordham,40.72648,-73.9148,Shared room,458,1,46,12/3/2013,3.18,1,320
+974,  Spacious 2BR  ,69738,Sofia,Staten Island,St. George,40.80077,-74.09755,PRIVATE ROOM,112,2,220,2/21/2013,7.26,4,87
+670,Quiet private room,63624,David,Staten island,Tompkinsville,40.62457,-73.91221,Private room,444,3,65,18/11/2016,9.57,16,342
+593,  Spacious 2BR  ,64505,James,BRONX,Mott Haven,40.51425,-73.8462,PRIVATE ROOM,458,1,125,10/13/2013,6.74,6,135
+838,Cozy apartment near park,37672,Daniel,QUEENS,Astoria,40.64762,-73.88261,Private room,147,1,150,12/1/2014,0.86,10,193
+502,  Spacious 2BR  ,14621,Chris,Queens,Flushing,40.67145,-73.96606,Entire home/apt,339,1,347,3/22/2017,3.02,9,146
+539,Beautiful loft,50749,,brooklyn,Bushwick,40.84721,-73.99612,PRIVATE ROOM,32,1,56,3/5/2011,3.3,9,313
+690,Quiet private room,46657,Emma,Queens,Long Island City,40.71531,-74.04849,Shared room,389,365,362,9/11/2018,,18,309
+582,Sunny room in the heart of NYC,86093,,Manhattan,Harlem,40.81235,-73.89673,private room,190,1000,364,4/13/2016,0.34,3,76
+344,  Spacious 2BR  ,18200,Lisa,queens,Astoria,40.81804,-73.87654,Private room,143,365,272,12/25/2019,,1,39
+714,Beautiful loft,47752,Maria,MANHATTAN,Chelsea,40.75123,-74.08588,private room,343,1,33,1/1/2012,3.32,7,46
+657,,37181,Emma,Staten island,Stapleton,40.65603,-73.71611,entire home/apt,53,30,127,19/10/2015,,18,28
+294,Sunny room in the heart of NYC,88932,,Manhattan,East Village,40.67059,-74.02841,Entire Home/Apt,($246),1000,303,12/10/2018,3.33,18,101
+365,Quiet private room,97921,James,BRONX,Fordham,40.88533,-73.74823,Shared room,273,1,185,12/12/2018,0.22,2,310
+663,,6171,Sarah,Manhatan,Upper West Side,40.72978,-73.95814,entire home/apt,132,1000,78,7/3/2014,1.82,5,13
+15,Sunny room in the heart of NYC,18361,,queens,Flushing,40.62,-73.97353,Private room,97,1,4,10/19/2018,0.74,12,109
+87,Beautiful loft,5244,Chris,staten island,Stapleton,40.55711,-73.85697,PRIVATE ROOM,111,30,17,2/8/2013,3.67,20,196
+371,  Spacious 2BR  ,35314,,manhattan,Chelsea,40.84254,-73.85997,Shared room,$225 ,3,372,6/7/2014,7.93,8,14
+166,Quiet private room,70951,Anna,queens,Astoria,40.81142,-74.07656,Shared room,45,30,271,10/8/2016,1.01,2,336
+927,,35066,Anna,Staten island,Stapleton,40.80852,-73.777,Entire home/apt,335,2,215,4/14/2016,6.48,11,51
+336,Cozy apartment near park,13121,Anna,queens,Ridgewood,40.54493,-73.90841,Entire Home/Apt,256,1,71,2/10/2019,4.02,11,112
+60,,7868,Robert,Manhattan,Chelsea,40.81941,-74.05603,PRIVATE ROOM,96,1,67,6/26/2011,5.89,5,8
+355,Cozy apartment near park,49026,Daniel,The Bronx,Concourse,40.60536,-73.86358,private room,$289 ,7,315,5/11/2016,0.29,12,23
+425,,92010,Anna,Manhatan,East Village,40.87646,-73.70916,Private room,220,1000,222,2/5/2012,7.95,12,98
+293,  Spacious 2BR  ,81381,John,manhattan,Chelsea,40.54095,-73.88299,Entire home/apt,86650,365,163,23/03/2015,5.75,11,87
+42,Cozy apartment near park,12970,Daniel,QUEENS,Elmhurst,40.87707,-73.89981,Entire home/apt,185,30,224,2/10/2012,7.35,8,309
+330,  Spacious 2BR  ,46249,Robert,Manhattan,East Village,40.78114,-73.79873,Entire Home/Apt,327,2,164,5/17/2016,,15,27
+615,,23179,Robert,Brooklyn,Bedford-Stuyvesant,40.71763,-73.70664,Entire Home/Apt,$190 ,2,335,6/27/2011,8.48,19,162
+430,Quiet private room,98676,Sofia,BROOKLYN,Greenpoint,40.87064,-74.06064,private room,70,1,184,7/9/2011,1.97,9,168
+80,Cozy apartment near park,62487,,Staten island,Tompkinsville,40.51128,-73.72767,Private room,71,5,74,10/1/2013,6.96,15,71
+29,  Spacious 2BR  ,57179,David,Manhatan,East Village,40.81926,-73.81033,entire home/apt,49057,30,65,1/13/2019,5.65,5,13
+255,Cozy apartment near park,58503,Sofia,MANHATTAN,Harlem,40.52391,-73.84217,Entire Home/Apt,418,365,54,8/8/2013,,7,330
+790,Quiet private room,31816,Anna,Brooklyn ,Bedford-Stuyvesant,40.51224,-73.72496,PRIVATE ROOM,242,1,157,16/08/2014,5.89,10,207
+459,,43229,Olivia,Manhattan,Upper West Side,40.80058,-74.00058,Entire home/apt,173,30,316,9/14/2018,1.89,1,326
+384,Modern studio,89487,Sarah,Staten Island,St. George,40.84751,-73.71368,Private room,265,1000,371,5/20/2018,3.61,13,344
+314,,85813,Robert,Staten island,St. George,40.82719,-73.90717,private room,226,1000,274,22/06/2016,4.01,3,323
+85,Sunny room in the heart of NYC,11828,Michael,BROOKLYN,Bushwick,40.79732,-73.74215,Entire home/apt,253,7,173,23/08/2013,3.68,14,265
+575,Modern studio,80788,Daniel,The Bronx,Concourse,40.58978,-73.94827,Entire home/apt,226,7,272,11/10/2011,5.42,11,178
+137,Sunny room in the heart of NYC,99608,Daniel,staten island,St. George,40.76292,-73.94177,PRIVATE ROOM,124,1000,101,14/10/2018,0.05,3,109
+112,,85656,,brooklyn,Greenpoint,40.5255,-73.70235,Entire home/apt,0,1,241,5/14/2011,7.69,14,328
+195,Cozy apartment near park,44332,John,Brooklyn,Bedford-Stuyvesant,40.70926,-74.01933,Private room,428,7,151,18/01/2013,9.1,8,352
+179,Beautiful loft,63003,,Staten Island,St. George,40.54008,-74.05775,private room,418,1,146,14/06/2019,3.84,2,248
+931,,81382,John,Brooklyn,Bedford-Stuyvesant,40.61764,-73.71469,Private room,90,30,219,22/12/2018,3.11,3,68
+497,Beautiful loft,24791,Olivia,bronx,Concourse,40.82309,-73.79884,Private room,134,1,228,24/12/2014,3.69,15,245
+130,,82289,Emma,staten island,Tompkinsville,40.87769,-73.81164,Shared room,69,30,304,8/4/2014,3.05,13,202
+338,Sunny room in the heart of NYC,55289,David,staten island,Tompkinsville,40.89101,-73.75028,Shared room,50209,1,110,14/12/2018,2.89,5,217
+609,Quiet private room,1350,Sarah,Manhattan,Midtown,40.81875,-73.86507,Shared room,$318 ,7,169,12/28/2015,6.69,8,242
+125,,32519,Chris,Brooklyn,Bushwick,40.84017,-74.09374,private room,46,2,300,27/12/2013,9.29,19,153
+319,Cozy apartment near park,11580,David,Brooklyn,Bushwick,40.72136,-73.92454,Private room,116,1000,20,2/26/2013,6.13,1,490
+227,Sunny room in the heart of NYC,60437,Maria,MANHATTAN,Upper West Side,40.66431,-74.04292,entire home/apt,117,1000,392,10/22/2013,2.65,20,351
+269,,62759,Maria,brooklyn,Williamsburg,40.53433,-73.80417,Entire Home/Apt,417,2,317,1/5/2013,6.94,1,56
+153,Modern studio,80800,Chris,Manhatan,East Village,40.75726,-73.97593,private room,457,7,373,1/8/2014,9.25,2,59
+585,  Spacious 2BR  ,26965,John,bronx,Concourse,40.81834,-73.96337,Entire Home/Apt,100,1,41,7/17/2017,5.76,6,323
+104,,7880,Lisa, Queens,Long Island City,40.77847,-74.04509,Private room,168,1000,379,4/2/2014,9.05,4,115
+594,  Spacious 2BR  ,31764,Robert,manhattan,Harlem,40.67373,-73.90372,private room,413,1000,106,1/14/2013,2.64,12,194
+897,,75957,Michael,manhattan,Harlem,40.7892,-73.83531,Entire home/apt,46,365,389,4/7/2018,7.47,7,109
+692,Beautiful loft,67578,Daniel,QUEENS,Astoria,40.8771,-73.70552,Entire Home/Apt,250,2,338,5/18/2018,6.75,14,169
+228,  Spacious 2BR  ,16403,,staten island,St. George,40.70174,-73.93208,Entire home/apt,73512,1,310,3/16/2012,6,3,272
+929,Quiet private room,41438,Maria,staten island,St. George,40.82808,-73.72744,Shared room,164,5,216,25/08/2016,,11,14
+302,,72587,John,The Bronx,Mott Haven,40.65389,-74.0097,entire home/apt,312,7,309,10/16/2011,2.38,19,256
+276,,2967,Maria,manhattan,Harlem,40.70093,-73.85812,Shared room,429,5,94,8/16/2017,1.65,9,115
+127,,84086,Lisa, Queens,Elmhurst,40.77188,-73.83573,Private room,222,1,395,4/23/2015,0.83,5,78
+406,Quiet private room,16855,Maria,brooklyn,Bushwick,40.63012,-74.08913,entire home/apt,60,1,152,2/11/2017,4.13,2,165
+684,  Spacious 2BR  ,7265,Sofia,bronx,Fordham,40.66486,-74.08865,Entire Home/Apt,80,30,129,12/11/2016,9.74,11,127
+935,Beautiful loft,62239,Olivia,Manhattan,Upper West Side,40.60129,-73.78123,Entire Home/Apt,287,3,24,14/11/2011,3.06,11,188
+37,Cozy apartment near park,24519,Sofia,Manhatan,Harlem,40.57662,-73.80456,Entire Home/Apt,420,3,370,10/10/2019,8.33,10,151
+140,  Spacious 2BR  ,94079,David,queens,Long Island City,40.64362,-74.09617,Shared room,$347 ,1,99,9/17/2017,4.95,15,350
+304,Modern studio,96285,John,BROOKLYN,Greenpoint,40.68769,-73.80647,PRIVATE ROOM,64511,7,180,5/6/2015,6.95,19,305
+268,Beautiful loft,81769,Emma, Queens,Flushing,40.66543,-73.95389,Entire Home/Apt,$75 ,2,164,10/21/2016,7.7,15,86
+534,,10521,Lisa,BROOKLYN,Greenpoint,40.88015,-73.8878,entire home/apt,453,7,15,26/03/2012,4.3,7,95
+546,Beautiful loft,41019,Lisa,brooklyn,Bushwick,40.75476,-73.81766,entire home/apt,432,3,375,2/6/2011,9.08,8,318
+213,Sunny room in the heart of NYC,68357,David, Queens,Astoria,40.86453,-73.77116,entire home/apt,400,5,263,8/16/2019,2.97,3,333
+469,Sunny room in the heart of NYC,23608,Daniel, Queens,Long Island City,40.73736,-73.71211,Entire home/apt,293,7,125,8/2/2011,4.89,13,352
+199,Quiet private room,93349,,The Bronx,Riverdale,40.79091,-73.74329,private room,94714,30,249,7/15/2012,0.64,17,335
+673,Beautiful loft,45217,James,Brooklyn ,Bedford-Stuyvesant,40.88831,-73.93774,PRIVATE ROOM,351,2,232,9/15/2015,7.45,11,335
+528,Modern studio,87410,Sarah,Staten Island,Stapleton,40.81104,-74.02538,Entire Home/Apt,262,2,152,9/27/2014,7.27,2,193
+676,,53543,,BRONX,Mott Haven,40.5635,-73.82784,Entire Home/Apt,301,1000,115,20/09/2013,8.58,10,142
+834,,74172,Daniel,Queens,Flushing,40.79184,-73.87898,Shared room,431,1,320,1/14/2018,2.41,15,308
+242,  Spacious 2BR  ,95445,James,Manhattan,Chelsea,40.57843,-73.77999,PRIVATE ROOM,251,1,242,14/03/2011,1.35,11,322
+343,  Spacious 2BR  ,37885,Michael,manhattan,Harlem,40.62648,-73.762,private room,308,3,138,2/18/2016,3.52,12,498
+550,Modern studio,70062,,Staten Island,St. George,40.79775,-74.02246,private room,250,7,327,5/21/2012,5.45,6,230
+387,Modern studio,73516,,Staten island,Stapleton,40.65987,-73.89466,private room,$178 ,1000,347,4/23/2018,,3,216
+903,,89744,James,Queens,Long Island City,40.86204,-73.71736,Entire home/apt,345,1000,393,14/06/2018,6.23,12,189
+207,Cozy apartment near park,69515,Michael,queens,Long Island City,40.54616,-73.9591,private room,356,30,298,11/24/2017,2.87,4,216
+296,Modern studio,86124,Robert,Staten Island,St. George,40.56832,-73.79282,entire home/apt,275,1000,294,4/9/2013,8.18,3,54
+696,,21273,Anna,Brooklyn,Bushwick,40.72535,-73.75626,entire home/apt,439,1,96,3/18/2018,9.76,20,49
+811,,33450,David,QUEENS,Astoria,40.85656,-74.08299,Private room,($351),5,207,2/9/2019,5.91,3,287
+74,Beautiful loft,87057,Lisa,bronx,Riverdale,40.63535,-73.86085,Shared room,228,5,33,2/18/2016,3.87,20,129
+786,  Spacious 2BR  ,5910,Daniel,Staten island,St. George,40.71882,-73.99794,entire home/apt,482,2,0,,,9,33
+105,Cozy apartment near park,31437,,Staten Island,Stapleton,40.56318,-73.83884,PRIVATE ROOM,311,30,244,11/5/2014,6.46,18,45
+846,,12584,David,staten island,Tompkinsville,40.54661,-74.04849,PRIVATE ROOM,295,1,21,1/17/2014,3.62,1,203
+750,,52485,Sofia,Brooklyn,Bushwick,40.7736,-73.78491,private room,114,30,59,27/12/2016,5.49,8,202
+969,Beautiful loft,2055,Chris,queens,Long Island City,40.73242,-73.71473,Entire Home/Apt,464,5,115,13/01/2011,4.59,7,80
+17,  Spacious 2BR  ,35335,Robert,queens,Flushing,40.69541,-73.73787,Private room,466,1,47,5/2/2017,3.34,6,66
+440,Sunny room in the heart of NYC,52229,Chris,staten island,Tompkinsville,40.88001,-74.0439,Entire home/apt,366,3,82,1/20/2013,1.78,6,63
+92,Beautiful loft,70924,Anna,brooklyn,Bushwick,40.87899,-73.89244,Private room,393,3,40,4/21/2015,2.75,3,320
+89,Modern studio,94000,,Staten Island,Stapleton,40.55429,-74.07038,Shared room,281,1,365,2/26/2018,9.68,3,163
+451,,78110,,queens,Elmhurst,40.84466,-73.80785,Private room,$127 ,5,251,7/13/2017,3.74,3,250
+718,Modern studio,32300,Emma,BROOKLYN,Greenpoint,40.6671,-74.03238,PRIVATE ROOM,348,3,98,5/17/2019,4.9,10,85
+103,  Spacious 2BR  ,11358,Chris,staten island,Tompkinsville,40.61512,-73.87061,Shared room,437,365,194,6/25/2017,2.91,12,147
+239,Modern studio,65330,Michael,Brooklyn,Kensington,40.8057,-73.88341,Entire Home/Apt,282,1,246,11/10/2016,8.98,6,294
+762,,4626,Michael,Brooklyn ,Greenpoint,40.6654,-73.84975,Entire home/apt,156,2,134,25/01/2017,0.44,7,164
+247,  Spacious 2BR  ,78441,Chris,Manhatan,East Village,40.51143,-73.83458,Entire Home/Apt,299,5,243,9/9/2018,4.45,20,357
+806,,1487,John,The Bronx,Fordham,40.81231,-73.87702,Entire Home/Apt,366,30,198,11/12/2016,9,19,18
+158,,70443,Emma,Staten Island,Stapleton,40.87296,-74.09044,private room,155,365,177,6/1/2011,3.77,8,157
+480,,92472,John,Bronx,Fordham,40.50428,-73.72064,Entire Home/Apt,282,365,374,8/16/2013,6.85,4,346
+646,Cozy apartment near park,20446,James,Manhatan,East Village,40.82208,-74.04858,Entire Home/Apt,180,1000,149,5/21/2017,0.29,19,108
+888,,81584,,Staten Island,St. George,40.78688,-74.01309,entire home/apt,131,1000,335,1/11/2013,1.73,7,295
+864,  Spacious 2BR  ,65396,Maria,Manhattan,Harlem,40.85771,-73.8644,PRIVATE ROOM,77,1,52,17/05/2014,1.72,20,279
+19,Modern studio,54964,David,Manhattan,Chelsea,40.74826,-74.03818,PRIVATE ROOM,477,2,83,7/1/2013,7.37,8,170
+745,Cozy apartment near park,50469,Emma,Brooklyn,Kensington,40.77797,-73.99075,Entire Home/Apt,475,1,359,2/24/2018,1.54,1,33
+122,Cozy apartment near park,71220,Robert,manhattan,Harlem,40.64928,-73.85287,Entire Home/Apt,141,1000,247,1/1/2018,5.52,10,436
+878,Modern studio,85320,Daniel,Manhatan,Upper West Side,40.88025,-74.06105,Private room,273,7,229,1/1/2016,,4,76
+744,  Spacious 2BR  ,84454,David,manhattan,East Village,40.76145,-73.98101,Entire Home/Apt,68,1,61,9/3/2015,9.3,1,104
+275,Quiet private room,80377,Anna,queens,Astoria,40.62134,-73.80176,PRIVATE ROOM,241,3,77,2/5/2014,0.27,19,313
+434,Quiet private room,4517,Sarah,MANHATTAN,Harlem,40.72781,-73.91939,private room,$273 ,3,47,2/22/2013,1.78,6,352
+943,Cozy apartment near park,24033,Sarah,Staten Island,Stapleton,40.86966,-73.81532,Private room,294,365,108,3/4/2013,8.16,1,7
+312,Sunny room in the heart of NYC,58878,John,BROOKLYN,Bushwick,40.58027,-73.94295,Private room,281,30,55,25/09/2013,2.19,9,329
+799,  Spacious 2BR  ,63195,,Staten island,Stapleton,40.87993,-73.77989,private room,130,30,368,18/05/2019,0.45,14,382
+877,Sunny room in the heart of NYC,43960,Maria,Staten Island,St. George,40.59441,-73.78262,Private room,390,1,186,7/10/2014,3.26,7,232
+547,Cozy apartment near park,63105,Emma,brooklyn,Williamsburg,40.76641,-73.92883,Shared room,102,1,90,2/6/2015,7.61,19,4
+182,Quiet private room,90282,Lisa,Bronx,Mott Haven,40.5998,-73.91742,Private room,132,5,360,12/5/2014,5.06,1,325
+185,Modern studio,84964,James,queens,Elmhurst,40.73379,-74.09706,Shared room,452,5,287,5/22/2015,4.82,11,172
+407,Quiet private room,77830,Daniel,bronx,Concourse,40.60772,-73.97267,private room,227,365,208,1/8/2012,6.34,4,9
+720,,89055,Olivia, Queens,Flushing,40.66981,-73.81709,Shared room,467,1,177,7/9/2015,2.82,3,42
+607,,21506,Chris,Staten Island,Tompkinsville,40.89079,-73.97526,entire home/apt,$270 ,2,102,15/09/2012,0.96,3,319
+693,Cozy apartment near park,24506,Chris,BRONX,Fordham,40.54787,-73.70906,private room,-436,1000,32,7/24/2019,7.33,6,127
+521,Cozy apartment near park,90080,Lisa,Brooklyn ,Williamsburg,40.58745,-73.70839,Entire Home/Apt,$326 ,7,356,20/03/2019,2.17,19,107
+381,Sunny room in the heart of NYC,75519,,manhattan,East Village,40.68729,-74.06833,private room,$298 ,30,153,22/03/2013,8.42,2,267
+411,Cozy apartment near park,86078,,BRONX,Fordham,40.50171,-74.09617,Entire Home/Apt,31,1,211,23/12/2019,7.63,3,275
+635,,92452,James,BRONX,Concourse,40.65562,-73.72805,private room,334,1,175,12/6/2016,1.53,6,255
+370,Sunny room in the heart of NYC,60468,Maria,Brooklyn ,Williamsburg,40.7472,-73.85984,Shared room,$116 ,1,45,3/19/2016,0.15,16,269
+853,,38316,Michael,Manhatan,Upper West Side,40.76806,-73.85904,Entire Home/Apt,340,5,332,9/5/2014,8.97,1,8
+875,Modern studio,85649,Michael,MANHATTAN,Upper West Side,40.74318,-73.82543,Private room,143,1,114,2/18/2019,3.92,16,187
+794,,31818,Maria,bronx,Riverdale,40.77796,-73.77589,Entire home/apt,203,5,260,5/21/2015,8.15,10,214
+79,,46820,John,staten island,Stapleton,40.61403,-73.79475,Entire home/apt,294,3,230,27/03/2019,0.93,1,113
+574,Modern studio,12074,Olivia,bronx,Fordham,40.89116,-73.82066,Shared room,$433 ,30,58,8/27/2011,2.71,2,301
+638,Quiet private room,70796,Olivia,MANHATTAN,Upper West Side,40.7397,-73.97224,entire home/apt,141,5,322,11/22/2012,7.62,13,162
+608,Sunny room in the heart of NYC,87424,Anna,bronx,Riverdale,40.8283,-73.75276,Entire Home/Apt,30249,1000,373,20/06/2015,9.34,7,287
+835,  Spacious 2BR  ,85381,Emma,brooklyn,Williamsburg,40.54896,-73.94333,Entire home/apt,($460),365,63,9/24/2019,2.62,6,132
+69,Beautiful loft,3733,Daniel,BRONX,Fordham,40.6839,-74.06885,entire home/apt,51,5,294,10/13/2017,6.41,11,148
+873,Modern studio,97909,Daniel,QUEENS,Flushing,40.73744,-74.02156,Shared room,298,5,313,3/21/2015,6.34,19,68
+972,Sunny room in the heart of NYC,75133,David,brooklyn,Kensington,40.55443,-73.72899,Entire home/apt,257,3,347,8/11/2016,5.57,6,278
+417,Cozy apartment near park,17361,,BROOKLYN,Bushwick,40.83301,-73.77135,Private room,152,365,121,20/10/2012,7.64,3,320
+783,Modern studio,14277,John,staten island,Stapleton,40.82844,-73.87936,PRIVATE ROOM,336,1,245,6/11/2012,3.11,5,259
+562,Modern studio,24642,David,The Bronx,Fordham,40.72526,-73.91621,Private room,210,1,142,7/3/2015,,19,241
+68,Quiet private room,50834,Robert,Queens,Long Island City,40.62057,-74.01551,entire home/apt,$58 ,1,391,5/11/2015,0.09,18,220
+537,,37002,Michael,Bronx,Concourse,40.71339,-73.88899,Shared room,$236 ,5,330,2/16/2011,8.3,11,212
+78,Modern studio,80254,John,bronx,Riverdale,40.64714,-73.72115,PRIVATE ROOM,492,30,236,7/17/2015,4.19,5,82
+106,  Spacious 2BR  ,85058,,MANHATTAN,Midtown,40.57452,-73.8004,Entire home/apt,233,3,19,5/19/2011,1.08,18,171
+79,,46820,John,staten island,Stapleton,40.61403,-73.79475,Entire home/apt,294,3,230,27/03/2019,0.93,1,113
+821,,18956,Olivia,bronx,Mott Haven,40.68855,-74.00353,Shared room,0,5,252,7/18/2014,6.9,8,52
+639,,86603,Michael,staten island,Tompkinsville,40.84934,-73.93998,Shared room,260,1,272,8/21/2016,6.84,14,50
+560,,61812,David,manhattan,Midtown,40.69219,-73.98422,private room,309,1,301,22/06/2018,3.92,14,357
+801,Modern studio,87676,Daniel,Staten Island,St. George,40.71862,-73.9333,PRIVATE ROOM,304,365,375,10/22/2015,4.97,18,297
+691,Sunny room in the heart of NYC,90392,Sofia,Queens,Elmhurst,40.88127,-74.03146,private room,332,365,229,2/11/2019,4.77,12,361
+999,,21761,John,MANHATTAN,East Village,40.53666,-74.08042,Entire home/apt,47,30,23,3/13/2019,4.98,7,61
+987,Modern studio,4668,Lisa,Queens,Flushing,40.58092,-73.77391,private room,155,2,39,27/12/2012,8.48,12,270
+914,Modern studio,71451,,Queens,Ridgewood,40.80037,-73.87138,PRIVATE ROOM,219,1000,258,3/4/2018,9.76,17,11
+736,Beautiful loft,9899,Sarah,Staten island,Tompkinsville,40.51381,-73.98684,entire home/apt,343,1000,387,9/2/2011,7.18,5,67
+819,,3565,Anna,BRONX,Concourse,40.61313,-73.77612,Entire home/apt,-104,365,314,21/03/2019,,11,1
+491,Modern studio,82134,Sofia,queens,Ridgewood,40.79703,-74.05186,entire home/apt,$84 ,1000,335,23/04/2014,9.26,11,38
+745,Cozy apartment near park,50469,Emma,Brooklyn,Kensington,40.77797,-73.99075,Entire Home/Apt,475,1,359,2/24/2018,1.54,1,33
+886,,64417,David,brooklyn,Bedford-Stuyvesant,40.57078,-74.02773,entire home/apt,74,5,245,6/9/2018,9.73,5,287
+606,Beautiful loft,98879,Robert,QUEENS,Ridgewood,40.56638,-73.98392,Shared room,220,2,314,20/09/2016,4.73,5,107
+364,Cozy apartment near park,34332,Emma,brooklyn,Greenpoint,40.73373,-73.94402,Entire home/apt,190,2,216,3/4/2014,2.15,19,140
+70,,67840,Lisa,The Bronx,Riverdale,40.73555,-73.89041,Entire home/apt,84,7,158,4/11/2016,0.77,7,324
+549,Beautiful loft,54781,Lisa,staten island,Tompkinsville,40.6335,-73.89287,entire home/apt,51219,1000,247,5/22/2012,7.28,8,10
+161,Sunny room in the heart of NYC,43964,Sofia, Queens,Astoria,40.62332,-73.994,private room,424,1,46,11/10/2013,6.97,5,20
+12,Beautiful loft,53565,Michael,Staten Island,Tompkinsville,40.84454,-73.87987,entire home/apt,68,1,333,1/3/2019,1.67,2,248
+145,,53129,Olivia,BRONX,Riverdale,40.84756,-73.76113,entire home/apt,197,1,374,11/22/2018,3.59,7,32
+518,,40103,Robert,Staten Island,Tompkinsville,40.5846,-74.09082,PRIVATE ROOM,272,7,138,11/6/2015,1.43,15,140
+428,Sunny room in the heart of NYC,12109,,Staten island,Stapleton,40.5812,-73.75473,Entire Home/Apt,0,7,111,7/13/2015,,5,191
+640,,49535,Robert,Manhattan,Upper West Side,40.5322,-73.87177,Private room,347,7,11,10/8/2016,5.7,1,241
+177,Cozy apartment near park,26260,Michael,MANHATTAN,Chelsea,40.70084,-73.73982,Entire home/apt,467,1000,346,25/02/2013,1.74,5,85
+441,  Spacious 2BR  ,52199,John,BROOKLYN,Williamsburg,40.85708,-73.88708,entire home/apt,140,30,356,11/26/2011,6.41,10,337
+522,,24044,Lisa,Queens,Flushing,40.69965,-73.70038,Shared room,$474 ,7,210,6/27/2016,4.26,15,171
+915,  Spacious 2BR  ,67433,,Bronx,Fordham,40.71404,-74.03571,private room,487,1,231,9/17/2016,9.27,12,292
+991,Quiet private room,29837,Sarah,Queens,Flushing,40.8589,-73.72362,Entire Home/Apt,130,1,154,5/7/2016,8.1,15,231
+689,,48777,Robert,staten island,Stapleton,40.83916,-73.86764,private room,128,1000,198,26/12/2015,8.04,8,134
+232,Beautiful loft,93640,Michael, Queens,Long Island City,40.67864,-73.82028,PRIVATE ROOM,90,1,51,13/09/2014,8.01,2,314
+211,Beautiful loft,69236,Michael,Manhattan,Midtown,40.74624,-73.83524,Shared room,426,30,293,6/3/2019,,3,112
+641,  Spacious 2BR  ,90610,Maria,bronx,Mott Haven,40.68887,-73.81488,entire home/apt,477,2,165,5/3/2013,2.08,20,236
+144,Sunny room in the heart of NYC,60243,Michael,Staten Island,Tompkinsville,40.59987,-73.81544,PRIVATE ROOM,389,2,389,8/5/2017,6.33,3,321
+754,Quiet private room,99179,Anna,BRONX,Concourse,40.53473,-73.99914,Entire home/apt,279,1,42,12/27/2014,6.32,11,48
+520,Modern studio,89335,Robert,brooklyn,Kensington,40.76563,-73.7706,Entire Home/Apt,$345 ,5,7,5/8/2013,8.64,14,58
+349,Modern studio,16167,Emma,Staten Island,Stapleton,40.54945,-74.05587,Private room,419,1,253,12/10/2016,7.22,13,42
+299,Modern studio,53978,John,manhattan,East Village,40.57827,-73.82739,private room,345,5,153,23/07/2015,9.9,5,496
+767,Modern studio,80427,Sarah,manhattan,Upper West Side,40.75899,-73.90122,PRIVATE ROOM,202,2,200,12/9/2018,4.6,3,174
+429,,35815,,Staten island,Tompkinsville,40.63455,-73.91954,Private room,268,7,209,11/8/2016,3.83,3,91
+613,Cozy apartment near park,36936,Olivia,BRONX,Riverdale,40.86863,-73.85729,Entire home/apt,498,1,331,16/11/2015,0.45,2,356
+977,Beautiful loft,82955,Chris,Manhatan,Chelsea,40.70557,-74.03275,Shared room,$366 ,30,83,1/6/2011,2.15,8,150
+986,  Spacious 2BR  ,95393,David,The Bronx,Mott Haven,40.78449,-73.83679,Entire Home/Apt,189,1000,349,5/8/2017,5.6,10,122
+9,Sunny room in the heart of NYC,33493,Lisa,Staten island,St. George,40.58472,-73.88428,Shared room,340,2,365,7/22/2015,3.74,8,264
+157,,32795,Anna,Manhattan,East Village,40.83794,-73.96908,Entire home/apt,473,365,233,7/6/2011,5.64,15,155
+540,,65238,Daniel,MANHATTAN,Harlem,40.85512,-73.71367,Private room,105,7,326,11/4/2018,5.28,9,295
+507,Beautiful loft,38587,John,Manhattan,Midtown,40.57297,-73.80258,Entire home/apt,"$59,590 ",365,357,8/14/2015,,4,330
+437,  Spacious 2BR  ,97107,Michael, Queens,Elmhurst,40.75852,-73.73244,entire home/apt,$407 ,5,358,7/20/2015,4.16,14,91
+267,Quiet private room,69714,Sarah,Brooklyn ,Bushwick,40.55215,-74.04605,Entire home/apt,252,365,101,7/21/2018,1.97,8,315
+462,,79732,Michael, Queens,Flushing,40.859,-74.05076,Private room,370,1,273,2/26/2018,3.33,3,114
+577,Cozy apartment near park,36225,Sarah,staten island,Stapleton,40.77304,-73.99024,Private room,37,2,394,5/11/2019,3.95,9,315
+339,Quiet private room,99991,David,Manhatan,East Village,40.88404,-73.79755,PRIVATE ROOM,$201 ,1,3,9/11/2017,1.76,5,236
+256,Beautiful loft,79470,Sarah,staten island,Stapleton,40.675,-73.98211,Private room,50,30,97,12/9/2013,7.33,18,140
+948,,54117,Anna,BRONX,Concourse,40.72468,-74.02214,Entire home/apt,37,7,280,5/18/2014,3.79,6,290
+893,,76060,Sarah,Manhatan,Upper West Side,40.86972,-73.78052,Shared room,356,1,103,5/10/2011,9.23,19,330
+666,Quiet private room,86459,Sofia,Manhattan,Upper West Side,40.68278,-74.0971,Shared room,$290 ,7,204,12/6/2012,8.37,10,222
+561,Quiet private room,21750,Lisa,BROOKLYN,Bedford-Stuyvesant,40.51363,-73.83983,Entire home/apt,35,1000,227,5/6/2011,8.83,12,234
+209,,59073,Daniel,The Bronx,Mott Haven,40.77717,-74.08121,private room,438,7,198,11/11/2017,0.55,8,128
+288,,3453,Daniel,brooklyn,Bedford-Stuyvesant,40.85837,-73.91501,Private room,486,7,380,9/10/2011,7.25,7,161
+2,Sunny room in the heart of NYC,6695,,Staten island,Tompkinsville,40.77926,-73.9639,PRIVATE ROOM,418,1,110,3/2/2016,0.98,15,176
+342,Sunny room in the heart of NYC,39228,Robert,Bronx,Riverdale,40.85133,-74.0458,Private room,104,1,27,6/14/2015,9.12,17,182
+270,Cozy apartment near park,81997,Emma,bronx,Mott Haven,40.74922,-73.70308,private room,162,1,192,1/9/2019,0.61,9,102
+266,  Spacious 2BR  ,45062,Anna,BROOKLYN,Greenpoint,40.56128,-73.83055,private room,287,7,228,8/2/2019,2.9,3,201
+447,,91092,Robert,QUEENS,Astoria,40.61538,-74.09052,private room,242,5,175,4/18/2014,9.07,8,340
+863,Beautiful loft,98113,,staten island,Stapleton,40.6139,-74.07884,Entire home/apt,78,30,104,13/02/2015,5.35,16,72
+96,Modern studio,86755,Robert,MANHATTAN,Upper West Side,40.53602,-73.9427,entire home/apt,187,30,123,10/12/2014,0.51,16,253
+601,Quiet private room,64353,Michael,BRONX,Riverdale,40.68356,-74.06013,entire home/apt,41,1000,241,5/14/2017,2.23,10,208
+43,  Spacious 2BR  ,44228,James,Queens,Long Island City,40.5726,-73.86587,entire home/apt,256,30,46,14/06/2018,3.22,14,53
+844,Sunny room in the heart of NYC,67303,Maria,BROOKLYN,Kensington,40.69094,-73.76477,private room,148,1000,71,4/6/2017,1.59,5,110
+399,Beautiful loft,65165,David,Brooklyn,Bedford-Stuyvesant,40.77073,-73.9389,Private room,$258 ,365,265,19/05/2017,6.37,14,225
+876,  Spacious 2BR  ,10766,Anna,BRONX,Fordham,40.61492,-73.99532,private room,279,1,99,11/20/2015,8.78,4,262
+629,Modern studio,1911,Maria,Queens,Ridgewood,40.8124,-73.81519,PRIVATE ROOM,260,365,186,3/14/2012,7.6,11,345
+46,Quiet private room,19958,,Staten Island,St. George,40.75908,-74.03841,PRIVATE ROOM,266,3,260,27/07/2015,9.8,13,124
+162,Cozy apartment near park,19322,John,Manhatan,East Village,40.82804,-74.03045,private room,0,7,231,12/18/2019,0.96,4,52
+728,Cozy apartment near park,21948,Lisa,Brooklyn,Bedford-Stuyvesant,40.69893,-74.03667,entire home/apt,202,365,142,4/16/2014,7.24,16,221
+630,,24426,Michael,The Bronx,Concourse,40.69585,-73.95316,Entire home/apt,$50 ,1000,351,14/05/2016,6.75,10,12
+289,Modern studio,42222,Michael,Queens,Long Island City,40.7506,-73.76304,Shared room,203,1000,310,3/20/2017,8.65,2,157
+590,Quiet private room,6209,John,Staten Island,St. George,40.80139,-73.73019,Shared room,162,3,72,4/18/2012,7.55,18,14
+939,,70695,Sofia,Brooklyn,Bedford-Stuyvesant,40.52678,-73.93001,entire home/apt,176,1,142,22/05/2015,2.62,7,218
+453,Quiet private room,77829,,BROOKLYN,Kensington,40.68219,-73.82757,Entire Home/Apt,105,3,126,1/4/2013,6.45,3,196
+576,Modern studio,76052,David,bronx,Fordham,40.67102,-73.80831,Shared room,348,1,55,7/24/2019,2.88,19,273
+851,Quiet private room,26487,Sarah,BRONX,Mott Haven,40.88077,-74.00072,private room,326,5,289,5/1/2012,,6,291
+316,  Spacious 2BR  ,28745,Chris,Manhattan,Upper West Side,40.75736,-73.90013,Private room,62,30,8,2/6/2011,7.88,17,21
+936,Quiet private room,53185,Chris,Manhattan,Harlem,40.89389,-73.98581,Private room,108,365,314,11/20/2018,8.16,7,43
+231,Modern studio,64407,Anna,MANHATTAN,Upper West Side,40.64626,-73.98978,Shared room,304,7,386,7/18/2014,4.83,9,189
+810,,6339,Sarah,brooklyn,Kensington,40.71652,-73.7563,Shared room,419,365,295,5/18/2019,2.98,10,206
+699,Modern studio,59707,Chris,Staten island,Stapleton,40.53638,-73.83808,PRIVATE ROOM,80,365,288,9/13/2019,6.44,7,144
+869,  Spacious 2BR  ,83059,Daniel,MANHATTAN,Upper West Side,40.75935,-73.98075,Entire Home/Apt,289,1000,172,9/21/2019,6.48,18,145
+712,,27137,Robert,BRONX,Concourse,40.7576,-74.01459,private room,435,1,240,21/09/2012,3.01,7,319
+77,  Spacious 2BR  ,81031,Maria,queens,Ridgewood,40.80844,-73.77638,entire home/apt,122,1,369,14/01/2018,6.77,10,121
+634,Quiet private room,93931,Sarah,Brooklyn ,Williamsburg,40.50749,-73.93427,Entire Home/Apt,32,1,140,8/20/2015,3.19,11,113
+434,Quiet private room,4517,,MANHATTAN,Harlem,40.72781,-73.91939,private room,$273 ,3,47,2/22/2013,1.78,6,352
+248,Cozy apartment near park,62498,Sofia,The Bronx,Riverdale,40.67674,-73.95369,Shared room,146,3,79,1/1/2015,8.16,18,69
+820,,47777,Emma,Queens,Elmhurst,40.80566,-73.99953,Private room,405,3,300,11/13/2014,8.42,4,308
+825,,95904,Chris,manhattan,Midtown,40.83091,-74.02094,Entire Home/Apt,0,3,235,11/15/2011,6.19,7,16
+477,Beautiful loft,99549,Lisa,Brooklyn,Williamsburg,40.82272,-74.06178,private room,186,5,358,9/9/2015,1,13,24
+671,Modern studio,61574,Daniel,manhattan,Midtown,40.66154,-73.74523,Private room,$410 ,1,127,5/6/2014,6.6,19,168
+86,Cozy apartment near park,58008,Sarah,bronx,Riverdale,40.6226,-73.85895,Shared room,197,7,85,6/15/2018,7.27,9,180
+470,Beautiful loft,91928,Michael,Staten island,Tompkinsville,40.548,-74.06695,Shared room,257,30,328,4/1/2019,5.73,4,293
+226,Modern studio,74872,Sarah,Staten Island,St. George,40.75182,-74.08432,Entire home/apt,333,1000,75,3/9/2011,5.17,1,207
+775,,26652,Lisa,staten island,Stapleton,40.63929,-73.99235,entire home/apt,75,3,245,3/8/2013,6.45,2,306
+332,Quiet private room,9250,Olivia,brooklyn,Bedford-Stuyvesant,40.50908,-73.93339,Private room,296,365,67,14/06/2018,7.38,1,10
+234,,37167,Chris,brooklyn,Greenpoint,40.70633,-74.00733,Shared room,431,1,345,6/8/2011,0.01,13,80
+589,Modern studio,16538,Emma, Queens,Flushing,40.87802,-73.74705,PRIVATE ROOM,$103 ,2,220,5/19/2019,,10,177
+476,Quiet private room,13838,Michael,staten island,St. George,40.544,-73.88065,private room,$168 ,1,168,11/6/2012,1.47,13,115
+937,,9817,,queens,Elmhurst,40.72204,-73.9482,Private room,0,1,37,6/23/2018,6.55,20,31
+916,Beautiful loft,85928,Robert,brooklyn,Kensington,40.68972,-73.91069,PRIVATE ROOM,"$75,791 ",1,92,7/19/2014,3,3,206
+600,Quiet private room,78095,Olivia,Brooklyn ,Bedford-Stuyvesant,40.53397,-74.07044,Private room,478,7,10,12/27/2011,6.05,13,77
+422,  Spacious 2BR  ,91861,Anna,MANHATTAN,East Village,40.88523,-73.85356,private room,466,7,168,2/15/2013,4.96,8,1
+688,  Spacious 2BR  ,3722,Olivia,MANHATTAN,Harlem,40.51054,-74.01021,Private room,371,2,125,8/21/2014,1.46,20,151
+183,Quiet private room,29091,Chris,Staten island,Tompkinsville,40.6399,-74.03459,Private room,272,3,383,1/5/2012,0.51,8,292
+618,,75060,Maria, Queens,Astoria,40.75693,-73.73941,Entire Home/Apt,187,2,382,2/5/2013,7.06,11,91
+333,  Spacious 2BR  ,35079,Lisa,BRONX,Concourse,40.69446,-73.83366,private room,360,365,280,8/10/2018,1.33,8,156
+439,,93943,Chris,BROOKLYN,Bedford-Stuyvesant,40.68487,-74.07072,entire home/apt,136,30,195,12/13/2016,3.97,5,5
+50,,4794,Daniel,Staten island,St. George,40.61495,-74.00901,private room,-373,1,222,11/23/2012,4.44,2,355
+923,Sunny room in the heart of NYC,98037,Daniel,QUEENS,Elmhurst,40.62715,-74.08737,Private room,$345 ,2,356,5/1/2015,4.17,16,32
+6,Modern studio,62348,Robert,The Bronx,Riverdale,40.53636,-74.08115,Private room,100,1,78,11/14/2013,0.64,17,195
+530,,16362,Emma,Staten island,St. George,40.75342,-73.91965,Private room,222,1,92,1/6/2015,5.68,11,310
+235,Cozy apartment near park,53947,James,staten island,Stapleton,40.86767,-73.88016,Private room,407,365,298,27/06/2016,2.27,19,99
+487,Beautiful loft,93597,Maria,staten island,Tompkinsville,40.561,-73.8955,entire home/apt,249,2,143,5/23/2012,6.67,4,219
+952,Beautiful loft,49030,,Brooklyn ,Williamsburg,40.87721,-73.96629,entire home/apt,$113 ,1000,38,1/26/2018,8.82,9,135
+498,Beautiful loft,53757,Sofia,manhattan,Upper West Side,40.50842,-74.03483,entire home/apt,122,1,201,2/5/2014,4.27,4,232
+885,  Spacious 2BR  ,95050,Lisa,brooklyn,Williamsburg,40.75076,-73.85037,private room,460,1,193,2/17/2011,4.16,18,250
+946,,91312,Michael,BRONX,Fordham,40.80064,-73.7336,Entire home/apt,7215,1,189,6/24/2015,,2,38
+107,,84719,Robert,MANHATTAN,Chelsea,40.68357,-73.99709,Private room,199,1,7,5/19/2016,7.58,13,89
+444,,13418,Chris,MANHATTAN,Midtown,40.64759,-74.07307,Entire home/apt,172,2,210,10/16/2015,7.13,20,291
+489,Quiet private room,98616,James,staten island,St. George,40.6077,-73.98778,private room,56,5,364,4/11/2017,1.83,11,0
+647,Sunny room in the heart of NYC,50790,Lisa, Queens,Elmhurst,40.73485,-73.89956,private room,206,365,191,8/21/2017,8.71,1,246
+13,,72066,John,Brooklyn ,Bushwick,40.88293,-73.70183,PRIVATE ROOM,176,365,338,7/3/2018,2.18,2,29
+739,Beautiful loft,49249,Michael,BRONX,Concourse,40.52718,-74.01995,Entire home/apt,386,1,106,10/16/2014,3.5,17,41
+727,Beautiful loft,20796,Maria,staten island,St. George,40.50979,-74.04423,Private room,227,5,195,7/12/2013,4.35,19,338
+191,Modern studio,9557,James,Queens,Flushing,40.50165,-73.80656,PRIVATE ROOM,$127 ,2,355,5/5/2016,3.84,2,301
+997,,95258,Olivia,Staten island,Tompkinsville,40.5704,-73.81166,Shared room,295,1000,330,10/24/2013,8.56,12,126
+833,Quiet private room,36312,Lisa,Bronx,Fordham,40.75467,-74.06452,Entire Home/Apt,155,365,140,13/03/2019,5.63,17,120
+283,Beautiful loft,81096,Emma,manhattan,Harlem,40.7668,-73.76479,Entire Home/Apt,104,3,169,4/1/2012,9.94,20,82
+30,Cozy apartment near park,9993,Maria,BROOKLYN,Bedford-Stuyvesant,40.85186,-73.9887,Shared room,197,7,129,8/1/2012,5.4,2,179
+170,  Spacious 2BR  ,75127,David,bronx,Concourse,40.79153,-73.72048,Shared room,$180 ,1000,200,20/03/2011,,4,313
+181,,9600,David, Queens,Flushing,40.57517,-74.01544,Shared room,339,7,379,28/09/2018,8.21,10,263
+101,,63701,Lisa,brooklyn,Kensington,40.58156,-73.89927,entire home/apt,107,1000,241,12/5/2011,2.08,17,166
+198,  Spacious 2BR  ,78430,,staten island,Tompkinsville,40.6687,-73.74555,PRIVATE ROOM,465,1,57,12/24/2013,9.82,16,81
+496,Modern studio,98749,Olivia,BRONX,Mott Haven,40.52291,-73.77363,entire home/apt,180,5,112,3/9/2015,5.38,13,298
+722,,7553,Lisa,The Bronx,Riverdale,40.78166,-74.02019,PRIVATE ROOM,$343 ,1,95,12/3/2012,4.34,3,351
+648,,98173,Chris,Manhatan,Midtown,40.81571,-73.84,Private room,341,5,255,10/21/2018,8.4,7,268
+45,Cozy apartment near park,41730,Robert,BRONX,Concourse,40.71969,-73.72893,Entire Home/Apt,56,30,357,2/1/2018,6.09,18,122
+984,Quiet private room,20248,Daniel,queens,Long Island City,40.74181,-74.03309,private room,34,2,66,5/7/2013,8.82,9,60
+711,Quiet private room,29437,,Manhatan,Midtown,40.68092,-73.71905,entire home/apt,243,30,186,22/06/2016,1.34,7,271
+374,,37831,James,Manhatan,Midtown,40.55277,-73.97307,private room,203,365,221,4/5/2013,0.45,12,65
+679,Modern studio,10227,John,QUEENS,Astoria,40.80866,-73.86062,Entire Home/Apt,189,2,338,5/27/2018,5.42,11,312
+982,  Spacious 2BR  ,55746,Daniel,BRONX,Fordham,40.53246,-73.75255,private room,113,1,214,1/17/2018,3.68,13,285
+649,Quiet private room,86302,Sofia,Brooklyn ,Kensington,40.7139,-73.8035,Shared room,168,1,28,10/17/2018,2.45,8,93
+798,Modern studio,87332,Robert,manhattan,East Village,40.63719,-73.85405,Entire home/apt,353,5,1,8/25/2012,2.03,17,75
+848,Beautiful loft,97555,Michael,Manhatan,Chelsea,40.85854,-74.09802,Entire Home/Apt,89,365,229,6/10/2014,4.77,17,341
+461,Cozy apartment near park,14824,David,Staten Island,Tompkinsville,40.68672,-73.74144,PRIVATE ROOM,310,1,246,4/8/2019,1.71,14,337
+909,Modern studio,5895,Anna,BROOKLYN,Bedford-Stuyvesant,40.75074,-74.09003,entire home/apt,189,1,59,19/08/2011,6.67,1,63
+414,  Spacious 2BR  ,81538,John,bronx,Fordham,40.87343,-73.75781,private room,$63 ,365,373,4/28/2015,0.24,9,354
+132,Beautiful loft,54627,Chris,staten island,St. George,40.80705,-74.08923,private room,309,30,362,26/08/2014,8.31,16,35
+40,,21517,Emma,staten island,Stapleton,40.88404,-74.06031,entire home/apt,$347 ,2,320,5/22/2014,1.58,1,88
+435,Quiet private room,10012,David,staten island,St. George,40.52298,-73.89259,Private room,$298 ,1,167,7/6/2017,1.3,13,214
+216,Modern studio,18875,Chris,Bronx,Fordham,40.77435,-73.85737,Shared room,84,3,391,7/13/2018,0.32,13,80
+556,Cozy apartment near park,8123,James,Manhatan,Midtown,40.85996,-73.74888,private room,95,1,386,3/13/2017,0.07,3,265
+567,Modern studio,32640,Michael,Brooklyn ,Williamsburg,40.82853,-73.98404,Entire home/apt,$199 ,3,199,2/28/2016,9.68,17,38
+763,Beautiful loft,74621,Daniel,Staten island,St. George,40.81619,-73.7445,Entire Home/Apt,275,1,123,5/16/2019,4.33,3,15
+475,,56009,Daniel,Staten Island,Tompkinsville,40.58151,-73.84817,Entire Home/Apt,$385 ,3,324,12/12/2014,,5,261
+457,Modern studio,50239,,Queens,Flushing,40.80421,-74.0962,Entire home/apt,274,3,384,11/19/2011,0.98,20,267
+812,Quiet private room,25582,John,Manhattan,Harlem,40.79514,-73.77113,entire home/apt,$392 ,365,122,1/22/2017,8.75,16,295
+261,,43553,Daniel,BROOKLYN,Bedford-Stuyvesant,40.81698,-73.88001,Entire Home/Apt,$482 ,365,172,20/09/2013,9.34,12,161
+817,  Spacious 2BR  ,27335,Michael,queens,Elmhurst,40.57082,-73.79238,Entire home/apt,102,30,390,19/02/2019,3.48,9,329
+36,Sunny room in the heart of NYC,33951,Sofia,Brooklyn,Bushwick,40.73262,-73.9107,Private room,154,365,176,18/12/2017,3.52,8,232
+828,Sunny room in the heart of NYC,32520,Maria,Brooklyn,Williamsburg,40.84287,-73.87597,Entire home/apt,388,7,332,1/17/2013,5.39,2,118
+912,  Spacious 2BR  ,75509,Daniel,staten island,St. George,40.83237,-73.79512,entire home/apt,166,7,93,12/23/2014,6.7,4,304
+310,,80257,Chris,Bronx,Concourse,40.51362,-73.85224,Shared room,175,1,304,10/21/2014,7.08,5,61
+277,Cozy apartment near park,52662,Robert,manhattan,Harlem,40.69598,-73.97004,Private room,254,30,126,7/25/2017,6.08,20,194
+637,Modern studio,15500,David, Queens,Elmhurst,40.6963,-74.00611,PRIVATE ROOM,42209,365,67,10/28/2017,0.98,19,111
+655,Modern studio,19340,John,QUEENS,Long Island City,40.62614,-73.97679,Shared room,211,1000,201,25/01/2017,0.56,15,209
+623,Modern studio,8051,Daniel,Manhattan,East Village,40.51142,-73.89512,entire home/apt,325,3,305,4/19/2019,1.31,3,170
+836,,88752,James,manhattan,East Village,40.65988,-74.00311,Entire Home/Apt,300,1,72,22/10/2017,7.26,10,267
+845,  Spacious 2BR  ,45235,,staten island,Tompkinsville,40.51459,-73.80159,Shared room,77,3,66,9/14/2019,0.44,8,187
+394,Cozy apartment near park,87530,Chris,Staten island,Stapleton,40.50398,-73.7775,Shared room,$256 ,1,43,6/13/2016,,5,201
+993,,89697,Daniel,Manhatan,Chelsea,40.70219,-73.91574,Entire Home/Apt,251,3,348,4/1/2018,1.95,1,83
+108,Cozy apartment near park,91802,Chris,Queens,Elmhurst,40.87433,-74.09727,Entire Home/Apt,101,7,120,11/5/2018,5.83,8,458
+1000,Modern studio,65617,Robert,Brooklyn,Bedford-Stuyvesant,40.83813,-73.77055,Entire home/apt,81,365,113,11/18/2019,,14,361
+525,,69021,Lisa,queens,Ridgewood,40.83539,-73.78194,Shared room,367,7,344,1/14/2014,0.17,20,78
+785,Beautiful loft,40703,Maria,Bronx,Mott Haven,40.79258,-73.84592,PRIVATE ROOM,368,1,72,20/02/2014,2.76,1,112
+48,  Spacious 2BR  ,87991,John,The Bronx,Concourse,40.65319,-73.75759,Shared room,387,7,22,12/16/2016,9.14,5,195
+955,Sunny room in the heart of NYC,8733,Anna, Queens,Long Island City,40.87664,-73.8831,Entire home/apt,$244 ,5,3,2/2/2018,9.43,3,328
+204,Beautiful loft,78242,Emma,bronx,Mott Haven,40.82982,-74.02377,Entire home/apt,231,5,55,1/21/2017,5.89,17,230
+980,Beautiful loft,71420,Daniel,Queens,Elmhurst,40.82995,-73.96223,Shared room,31,1000,118,15/08/2018,3.98,8,299
+632,Modern studio,3933,Sofia,bronx,Concourse,40.74374,-73.81048,Entire home/apt,$220 ,1,195,3/12/2019,9.28,6,154
+22,,88410,Michael,Staten Island,Stapleton,40.79482,-74.02119,PRIVATE ROOM,398,7,35,10/11/2016,8.48,14,153
+403,Modern studio,22707,Robert,Staten Island,Stapleton,40.66385,-74.00687,Shared room,349,7,173,22/01/2019,7.36,1,330
+947,Sunny room in the heart of NYC,71995,Michael,staten island,Tompkinsville,40.86646,-73.98036,Entire home/apt,493,1,362,12/27/2012,9.87,11,0
+84,,26048,Olivia,manhattan,Harlem,40.58064,-73.78356,Entire Home/Apt,$264 ,1,161,9/13/2015,4.74,10,18
+131,Modern studio,43714,Olivia, Queens,Ridgewood,40.58034,-73.97433,Private room,338,7,163,12/23/2015,,13,294
+416,,4653,Daniel,Brooklyn ,Williamsburg,40.89611,-74.00975,Shared room,322,7,38,6/4/2014,3.11,16,320
+896,,15773,Sarah,manhattan,Harlem,40.78016,-73.91586,Private room,473,30,385,1/4/2013,7.72,13,344
+842,Cozy apartment near park,79275,Maria,Staten island,Tompkinsville,40.50335,-73.7354,PRIVATE ROOM,472,2,13,4/10/2011,7.79,17,57
+742,Beautiful loft,61015,,Staten Island,Stapleton,40.60093,-73.89556,Entire Home/Apt,485,3,6,28/03/2014,2.07,13,198
+698,,53990,John,Manhatan,East Village,40.8776,-73.83252,Entire Home/Apt,229,1,173,6/5/2014,9.6,2,251
+287,  Spacious 2BR  ,45294,Daniel,Manhatan,Chelsea,40.62957,-74.09755,PRIVATE ROOM,-203,5,174,12/19/2017,9.6,16,89
+124,  Spacious 2BR  ,91739,James,staten island,Tompkinsville,40.56855,-73.90006,private room,$356 ,7,330,10/28/2016,8.95,19,21
+34,  Spacious 2BR  ,43600,Maria,Staten island,Stapleton,40.53467,-73.74735,Shared room,155,2,384,10/20/2018,3.8,6,14
+788,Quiet private room,20394,Olivia,BRONX,Mott Haven,40.63126,-73.89647,Private room,252,30,370,19/01/2017,8.02,18,131
+517,Cozy apartment near park,28979,Anna,Staten Island,Tompkinsville,40.69452,-73.81908,Shared room,-225,30,58,8/2/2015,1.57,11,240
+924,Quiet private room,68760,Olivia,bronx,Riverdale,40.51673,-73.88358,private room,415,1,205,9/5/2018,2.72,4,226
+20,,37585,,Brooklyn ,Kensington,40.68412,-73.97792,PRIVATE ROOM,132,2,114,7/11/2011,3.29,12,35
+981,Quiet private room,4823,Olivia,Brooklyn,Williamsburg,40.77432,-73.80308,private room,379,30,152,10/2/2017,5.82,9,271
+220,Quiet private room,19350,James,staten island,Tompkinsville,40.68514,-73.9565,Private room,199,3,249,2/6/2019,6.07,18,143
+892,  Spacious 2BR  ,68977,Lisa,Manhattan,Harlem,40.79044,-74.07828,Private room,233,2,88,1/9/2011,4.89,17,351
+580,Quiet private room,67982,Maria,bronx,Fordham,40.83797,-73.76024,Entire Home/Apt,$161 ,365,367,8/10/2011,1.1,3,259
+482,Cozy apartment near park,29503,,Manhatan,Harlem,40.54529,-73.73438,entire home/apt,117,2,276,10/5/2012,2.94,10,466
+932,,78176,Emma,Brooklyn,Williamsburg,40.86429,-73.75929,Shared room,$81 ,3,273,11/13/2019,0.07,17,487
+357,  Spacious 2BR  ,27988,Robert,Staten island,Tompkinsville,40.77838,-73.8648,private room,245,5,193,6/19/2017,8.09,11,51
+662,Beautiful loft,43255,James,Manhatan,Harlem,40.81245,-73.80422,Private room,203,7,10,10/10/2017,6.24,14,423
+225,Beautiful loft,63786,Chris,manhattan,Harlem,40.56294,-73.85919,private room,138,1,338,26/07/2014,7.21,7,246
+760,Modern studio,70536,,MANHATTAN,Harlem,40.62014,-73.80134,private room,0,7,5,1/17/2016,1.14,1,340
+93,Cozy apartment near park,55602,Emma,bronx,Mott Haven,40.83701,-73.87455,Entire Home/Apt,491,1,41,11/25/2011,2.65,20,107
+152,Quiet private room,41620,Daniel,queens,Astoria,40.75143,-73.89958,Entire home/apt,233,7,216,2/21/2017,5.38,3,78
+590,Quiet private room,6209,John,Staten Island,St. George,40.80139,-73.73019,Shared room,162,3,72,4/18/2012,7.55,18,14
+318,Beautiful loft,28948,Lisa,Manhattan,Harlem,40.52524,-74.01894,Entire home/apt,439,5,377,6/4/2017,5.76,2,70
+449,,67229,Daniel,manhattan,Midtown,40.73057,-73.71291,entire home/apt,157,2,139,12/2/2018,3.78,20,241
+804,Cozy apartment near park,72474,,staten island,St. George,40.70431,-73.9075,private room,429,1000,142,6/26/2012,3.54,9,198
+746,  Spacious 2BR  ,25650,Daniel,staten island,Tompkinsville,40.76264,-73.71623,Private room,325,3,363,12/16/2015,8.02,8,12
+523,Sunny room in the heart of NYC,99296,Chris,manhattan,Upper West Side,40.77211,-73.84636,entire home/apt,462,1000,50,2/3/2012,0.17,20,210
+280,Beautiful loft,93704,Michael,brooklyn,Bedford-Stuyvesant,40.68187,-73.99997,private room,488,1,367,2/4/2012,4.5,13,185
+584,Beautiful loft,55899,,staten island,Stapleton,40.85209,-73.95525,Entire home/apt,257,5,286,2/12/2019,4.85,8,117
+765,,41153,,Queens,Elmhurst,40.60064,-73.99272,Shared room,345,3,147,11/4/2019,9.07,7,289
+605,Sunny room in the heart of NYC,2213,Michael,brooklyn,Greenpoint,40.88877,-74.08438,Entire Home/Apt,131,7,253,11/26/2013,4.88,10,280
+648,,98173,Chris,Manhatan,Midtown,40.81571,-73.84,Private room,341,5,255,10/21/2018,8.4,7,268
+350,Sunny room in the heart of NYC,69506,David,BRONX,Concourse,40.67118,-73.75729,Private room,178,30,347,3/1/2016,,3,53
+928,,90444,Michael,Brooklyn ,Bedford-Stuyvesant,40.76053,-73.97955,Entire home/apt,0,1,152,10/9/2019,0.48,9,192
+375,  Spacious 2BR  ,35108,Michael,QUEENS,Ridgewood,40.89783,-73.79453,Shared room,114,1,284,1/7/2018,0.56,6,93
+401,  Spacious 2BR  ,29256,John,BRONX,Fordham,40.64978,-73.98241,private room,220,1,73,10/14/2013,9.37,6,156
+705,Quiet private room,15331,John,BRONX,Riverdale,40.65796,-73.74576,PRIVATE ROOM,85,2,44,8/7/2019,5.19,4,18
+258,,5170,Chris,The Bronx,Mott Haven,40.54419,-73.89072,private room,239,1,22,3/28/2013,2.03,19,248
+945,Modern studio,26557,Michael,BROOKLYN,Kensington,40.62773,-74.00241,Entire Home/Apt,313,1,301,26/01/2019,2.77,11,281
+852,  Spacious 2BR  ,55749,David,manhattan,Chelsea,40.72394,-73.72499,PRIVATE ROOM,250,7,318,9/16/2011,3.99,1,60
+73,  Spacious 2BR  ,93749,Robert,Bronx,Concourse,40.69025,-74.03966,PRIVATE ROOM,126,1,230,6/23/2012,5.05,15,88
+196,,6170,Daniel,Brooklyn,Greenpoint,40.53002,-73.81057,Entire Home/Apt,76,3,329,10/8/2014,4.65,10,51
+484,Cozy apartment near park,47365,Lisa,Brooklyn ,Kensington,40.65814,-73.98029,Private room,158,7,93,4/5/2019,6.57,14,224
+856,Sunny room in the heart of NYC,52206,John,manhattan,Upper West Side,40.75042,-74.08378,PRIVATE ROOM,465,1,84,4/1/2018,6.68,13,263
+138,Modern studio,81918,,bronx,Riverdale,40.84505,-73.88891,Shared room,88,5,305,10/13/2017,1.15,6,180
+495,Sunny room in the heart of NYC,49380,Sofia,Manhatan,Harlem,40.55319,-73.75065,Entire Home/Apt,482,1,328,4/18/2014,0.02,11,177
+773,Quiet private room,53953,Lisa,staten island,Stapleton,40.65516,-73.92312,Shared room,285,2,190,12/3/2013,8.37,7,349
+551,Beautiful loft,2092,Emma,QUEENS,Elmhurst,40.51644,-73.89197,private room,171,5,313,26/07/2012,5.67,16,177
+463,,16218,David,Staten island,Stapleton,40.59335,-73.99636,PRIVATE ROOM,468,3,44,2/11/2012,5.93,19,96
+202,,30218,,Staten Island,Stapleton,40.88527,-73.84498,private room,16913,365,287,22/11/2014,9.5,15,186
+313,  Spacious 2BR  ,68552,Michael,Brooklyn,Greenpoint,40.69908,-73.83885,Entire Home/Apt,$258 ,1,19,5/5/2017,3.31,16,200
+291,Modern studio,16182,,Staten island,Stapleton,40.5393,-73.70709,Shared room,103,365,346,4/24/2013,4.6,1,365
+961,Cozy apartment near park,24956,Robert,Manhattan,Chelsea,40.61068,-74.07995,Shared room,-467,5,229,3/6/2016,9.61,1,81
+190,Quiet private room,5944,Sofia,Brooklyn,Bedford-Stuyvesant,40.80579,-73.90417,Shared room,426,1,66,14/11/2017,4.3,18,244
+764,Beautiful loft,91236,Emma,BROOKLYN,Bushwick,40.86684,-73.9786,entire home/apt,362,365,309,28/05/2016,5.12,19,197
+113,  Spacious 2BR  ,3979,Chris,staten island,Tompkinsville,40.5532,-73.75589,entire home/apt,368,1,91,7/17/2019,,10,114
+950,,73521,,staten island,St. George,40.53479,-73.92735,Entire Home/Apt,$94 ,5,232,10/18/2019,3.81,1,154
+184,,56549,Emma,Manhatan,East Village,40.86461,-73.84105,private room,"$94,417 ",1000,4,20/05/2014,7.13,13,363
+251,,65694,Michael,The Bronx,Mott Haven,40.50885,-73.71107,Shared room,11505,3,137,12/15/2013,0.09,7,46
+824,Modern studio,75934,Maria,MANHATTAN,Chelsea,40.73027,-74.09996,Entire home/apt,328,5,182,9/23/2018,0.28,1,49
+941,,96538,Sofia,bronx,Fordham,40.78123,-73.765,Shared room,191,1,140,5/11/2018,3.77,20,18
+392,Quiet private room,19058,Emma,Bronx,Fordham,40.64466,-73.80866,Private room,475,30,390,8/24/2019,1.55,4,186
+905,,95344,Sofia,Manhattan,East Village,40.66952,-74.08295,entire home/apt,76,1,264,22/12/2012,4.48,4,75
+731,Beautiful loft,13528,Anna,QUEENS,Long Island City,40.88845,-74.00843,Private room,430,1000,312,4/16/2014,4.7,13,9
+555,,74257,Sarah,The Bronx,Mott Haven,40.55544,-73.92324,entire home/apt,456,5,257,12/8/2016,4.67,1,210
+367,,56164,Emma,Staten Island,Tompkinsville,40.68844,-73.93482,PRIVATE ROOM,429,5,367,2/27/2017,6.99,20,259
+346,Sunny room in the heart of NYC,99900,,Brooklyn,Kensington,40.54313,-73.78278,PRIVATE ROOM,$250 ,365,303,4/8/2011,0.44,4,154
+536,Modern studio,76551,John,Staten island,Tompkinsville,40.82109,-73.90054,Shared room,131,3,215,2/15/2012,6.02,1,302
+920,,35854,Robert,BRONX,Mott Haven,40.54088,-74.04306,Entire home/apt,108,5,296,14/11/2014,5.43,18,422
+212,Quiet private room,32502,John,The Bronx,Fordham,40.63243,-73.98257,Shared room,139,1000,271,9/27/2018,,20,342
+503,Beautiful loft,43343,Daniel,QUEENS,Astoria,40.55864,-74.04089,PRIVATE ROOM,24482,30,369,2/4/2018,4.28,5,142
+538,Quiet private room,43317,David,BROOKLYN,Bedford-Stuyvesant,40.89359,-73.90267,private room,0,1,191,1/8/2012,8.26,14,71
+176,  Spacious 2BR  ,69495,Anna, Queens,Elmhurst,40.56045,-73.82141,Shared room,167,1,43,9/14/2016,2.28,14,31
